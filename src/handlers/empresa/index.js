@@ -1,32 +1,4 @@
-const AWS = require("aws-sdk");
-const Guid = require("guid");
-const { reducerArrayInParts } = require("../../util/index");
-
-const log = async (dataInicio, client, body, response) => {
-  const ddb = new AWS.DynamoDB({ region: "sa-east-1" });
-  const params = {
-    TableName: process.env.TABLE,
-    Item: {
-      id: { S: Guid.raw() },
-      funcao: { S: "getAllEmpresas" },
-      body: { S: JSON.stringify(body) },
-      ip_client: { S: client },
-      response: { S: JSON.stringify(response) },
-      data_inicio_processamento: { S: dataInicio },
-      data_fim_processamento: { S: new Date().toUTCString() },
-    },
-  };
-  await ddb.putItem(params).promise();
-};
-
-const sendMessag = async (data) => {
-  const sqs = new AWS.SQS({ region: "sa-east-1" });
-  var message = {
-    MessageBody: JSON.stringify(data),
-    QueueUrl: process.env.QUEUE,
-  };
-  await sqs.sendMessage(message).promise();
-};
+const { reducerArrayInParts, sendMessag, logger } = require("../../util/index");
 
 const validate = {
   nome: (nome) => {
@@ -35,7 +7,7 @@ const validate = {
 };
 
 exports.index = async (event) => {
-  const initRequest = new Date().toUTCString();
+  const startDate = new Date().toUTCString();
   const { data, client, ...rest } = event;
   const list = Array(...data);
 
@@ -56,9 +28,11 @@ exports.index = async (event) => {
 
     if (erros.length === 0) {
       const lotes = reducerArrayInParts(list, 200);
-      for (const indice in lotes) {
-        await sendMessag(lotes[indice]);
-      }
+      const promisses = [];
+      lotes.forEach((lotes) =>
+        promisses.push(sendMessag(process.env.QUEUE, lotes))
+      );
+      await Promise.all(promisses);
     }
   }
   const response = {
@@ -66,6 +40,13 @@ exports.index = async (event) => {
     erros,
   };
 
-  await log(initRequest, client, rest, response);
+  const log = {
+    nameFunction: 'getAllEmpresasCNU',
+    body: rest,
+    startDate,
+    client,
+    response
+  };
+  await logger(log);
   return response;
 };
