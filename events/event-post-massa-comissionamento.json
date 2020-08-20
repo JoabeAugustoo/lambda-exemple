@@ -1,0 +1,37 @@
+{
+	"httpMethod": "POST",
+	"client": "192.168.1.115",
+	"data": [
+        {
+            "id_unidade_negocio": 123,
+            "id_tipo_produto": 235,
+            "id_produto": 3453,
+            "id_contrato": 6780,
+            "id_empresa": 6780,
+            "id_fatura": 3456430,
+            "id_item_fatura": 2342350,
+            "id_item_cobranca": 1234230,
+            "id_rubrica": 342340,
+            "id_formacao_preco": 2342340,
+            "id_precificacao": 2342340,
+            "id_tipo_preco": 2342340,
+            "id_tipo_plano": 2342340,
+            "nr_associado": "346565763",
+            "nr_cpf": "13385278007",
+            "nm_beneficiario": "JOAO MENDONCA DA SILVA",
+            "dt_nascimento_beneficiario": "1988-02-23",
+            "nm_mae": "MARIA ANTONIA DA SILVA",
+            "cd_parentesco": "",
+            "dt_inicio_beneficio": "2020-08-20 12:58:50",
+            "dt_competencia_mensalidade": "2020-08-20", 
+            "dt_competencia_fatura": "2020-08-20", 
+            "dt_vencimento_fatura": "2020-08-20", 
+            "dt_pagamento_fatura": "2020-08-20 12:58:50",
+            "nr_proporcional_dias": 12345,
+            "vl_fatura": 666.00,
+            "vl_custo_fatura": 777.00,
+            "ds_rede_atendimento_plano": "REDE01 PARTICIPATIVO",
+            "ds_abrangencia": "NACIONAL"
+        }
+	]
+}

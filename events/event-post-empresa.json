@@ -1,0 +1,3654 @@
+{
+	"httpMethod": "POST",
+	"client": "192.168.1.115",
+	"data": [
+		{
+			"id": 7,
+			"nr_cnpj": "18504155782",
+			"nm_razao_social": "ANA CLAUDIA SANTOS",
+			"idCorretora": 4
+		},
+		{
+			"id": 8,
+			"nr_cnpj": "14797358388",
+			"nm_razao_social": "ANTONIO SAVIO FERREIRA DE NAZARETH",
+			"idCorretora": null
+		},
+		{
+			"id": 9,
+			"nr_cnpj": "10310359889",
+			"nm_razao_social": "FABIOLA NASCIMENTO DE ALMEIDA NEVES",
+			"idCorretora": null
+		},
+		{
+			"id": 10,
+			"nr_cnpj": "10199250987",
+			"nm_razao_social": "VIVIANE DOS SANTOS PATRICIO",
+			"idCorretora": 4
+		},
+		{
+			"id": 11,
+			"nr_cnpj": "10719050780",
+			"nm_razao_social": "WELINGTON DOS SANTOS ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 12,
+			"nr_cnpj": "18003354381",
+			"nm_razao_social": "ANDERSON REIS AURORA",
+			"idCorretora": 4
+		},
+		{
+			"id": 13,
+			"nr_cnpj": "11051554781",
+			"nm_razao_social": "JEAN CARVALHO",
+			"idCorretora": 5
+		},
+		{
+			"id": 14,
+			"nr_cnpj": "10784257781",
+			"nm_razao_social": "ALEXANDRE FONSECA FERREIRA DA SILVA",
+			"idCorretora": 5
+		},
+		{
+			"id": 15,
+			"nr_cnpj": "11095357989",
+			"nm_razao_social": "JULIANA HOFFMAN DE CARVALHO",
+			"idCorretora": 5
+		},
+		{
+			"id": 16,
+			"nr_cnpj": "10172055585",
+			"nm_razao_social": "Leonardo Souza Bergamini",
+			"idCorretora": 5
+		},
+		{
+			"id": 17,
+			"nr_cnpj": "10227951987",
+			"nm_razao_social": "GUSTAVO OLIVEIRA",
+			"idCorretora": 5
+		},
+		{
+			"id": 18,
+			"nr_cnpj": "10728855982",
+			"nm_razao_social": "INGRID LEA SAMPAIO BARBOSA",
+			"idCorretora": null
+		},
+		{
+			"id": 19,
+			"nr_cnpj": "16210451582",
+			"nm_razao_social": "NILCEA ALBAENEZ FIRME",
+			"idCorretora": 4
+		},
+		{
+			"id": 20,
+			"nr_cnpj": "17805854282",
+			"nm_razao_social": "THEOBALDO AMARAL",
+			"idCorretora": null
+		},
+		{
+			"id": 21,
+			"nr_cnpj": "11075658889",
+			"nm_razao_social": "THIAGO LUIZ TEIXEIRA GOMES",
+			"idCorretora": 6
+		},
+		{
+			"id": 22,
+			"nr_cnpj": "17649256183",
+			"nm_razao_social": "MARCOS JOSE INTRA",
+			"idCorretora": 6
+		},
+		{
+			"id": 23,
+			"nr_cnpj": "10315651582",
+			"nm_razao_social": "JO JANES",
+			"idCorretora": 6
+		},
+		{
+			"id": 24,
+			"nr_cnpj": "10011853282",
+			"nm_razao_social": "CARLOS ROGERIO PARANHOS WIENSKOSKI",
+			"idCorretora": 6
+		},
+		{
+			"id": 25,
+			"nr_cnpj": "10345154588",
+			"nm_razao_social": "SUZEMARY DA SILVA GOMES ROSA",
+			"idCorretora": 6
+		},
+		{
+			"id": 26,
+			"nr_cnpj": "10458259082",
+			"nm_razao_social": "ATILA ROSA DE SALES",
+			"idCorretora": 6
+		},
+		{
+			"id": 27,
+			"nr_cnpj": "10310658283",
+			"nm_razao_social": "ITALO REINALDO FERREIRA JUNIOR",
+			"idCorretora": null
+		},
+		{
+			"id": 28,
+			"nr_cnpj": "10189753181",
+			"nm_razao_social": "LEONARDO SALGUEIRINHO DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 29,
+			"nr_cnpj": "10080753589",
+			"nm_razao_social": "ANDERSON KENNEDY ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 30,
+			"nr_cnpj": "17046153285",
+			"nm_razao_social": "MOSES RODRIGUES GOMES",
+			"idCorretora": 7
+		},
+		{
+			"id": 31,
+			"nr_cnpj": "10081156684",
+			"nm_razao_social": "ANDERSON PEDRINI TOFOLI",
+			"idCorretora": 7
+		},
+		{
+			"id": 32,
+			"nr_cnpj": "15253257084",
+			"nm_razao_social": "GILBERTO VILA DE ASSIS",
+			"idCorretora": 7
+		},
+		{
+			"id": 33,
+			"nr_cnpj": "15576556888",
+			"nm_razao_social": "NELCY LEIA BERGER RUFINO",
+			"idCorretora": 7
+		},
+		{
+			"id": 34,
+			"nr_cnpj": "10894653286",
+			"nm_razao_social": "IGOR DEL CARO SILVA",
+			"idCorretora": 7
+		},
+		{
+			"id": 35,
+			"nr_cnpj": "14878354487",
+			"nm_razao_social": "NADIR FRIGINE DEL CARO",
+			"idCorretora": null
+		},
+		{
+			"id": 38,
+			"nr_cnpj": "13632154483",
+			"nm_razao_social": "JUSSARA MIRTES GASPERAZZO",
+			"idCorretora": 5
+		},
+		{
+			"id": 39,
+			"nr_cnpj": "10044255687",
+			"nm_razao_social": "ELIZABETH IDELFONSO S.BUFFOLO",
+			"idCorretora": 64024
+		},
+		{
+			"id": 40,
+			"nr_cnpj": "12463655089",
+			"nm_razao_social": "ESIO MARTINS DE SOUZA",
+			"idCorretora": 8
+		},
+		{
+			"id": 41,
+			"nr_cnpj": "19099157289",
+			"nm_razao_social": "FERNANDO SERGIO DE OLIVEIRA",
+			"idCorretora": 8
+		},
+		{
+			"id": 42,
+			"nr_cnpj": "18505155080",
+			"nm_razao_social": "JORGE LUIZ DE OLIVEIRA",
+			"idCorretora": 8
+		},
+		{
+			"id": 43,
+			"nr_cnpj": "17985457888",
+			"nm_razao_social": "JOSE EDUARDO VIEIRA JUNIOR",
+			"idCorretora": 8
+		},
+		{
+			"id": 44,
+			"nr_cnpj": "16394152386",
+			"nm_razao_social": "JOSE HENRRIQUE MACHADO",
+			"idCorretora": 8
+		},
+		{
+			"id": 45,
+			"nr_cnpj": "18348955688",
+			"nm_razao_social": "ANA JULIA MEROTO",
+			"idCorretora": null
+		},
+		{
+			"id": 46,
+			"nr_cnpj": "19688859388",
+			"nm_razao_social": "ROSIMEIRE APARECIDA OLIVEIRA SILVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 47,
+			"nr_cnpj": "13431258181",
+			"nm_razao_social": "AFONSO ROQUE DE PAIVA",
+			"idCorretora": 5
+		},
+		{
+			"id": 48,
+			"nr_cnpj": "16565359585",
+			"nm_razao_social": "Francisco Bezerra Barros",
+			"idCorretora": 8
+		},
+		{
+			"id": 49,
+			"nr_cnpj": "17424656087",
+			"nm_razao_social": "MANOEL LENOIR ALVARENGA BRASIL",
+			"idCorretora": 8
+		},
+		{
+			"id": 50,
+			"nr_cnpj": "10833950481",
+			"nm_razao_social": "GUSTAVO GRILLO ROSA",
+			"idCorretora": null
+		},
+		{
+			"id": 51,
+			"nr_cnpj": "10923452186",
+			"nm_razao_social": "Daniela Avila Ramos",
+			"idCorretora": 8
+		},
+		{
+			"id": 54,
+			"nr_cnpj": "15531651283",
+			"nm_razao_social": "WANTUIL GOMES DO NASCIMENTO FILHO",
+			"idCorretora": 73195
+		},
+		{
+			"id": 55,
+			"nr_cnpj": "15576257189",
+			"nm_razao_social": "LUIZ CLAUDIO ZUQUE CRIVEL",
+			"idCorretora": 5
+		},
+		{
+			"id": 56,
+			"nr_cnpj": "17318852389",
+			"nm_razao_social": "RITA MARIA LIMA DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 57,
+			"nr_cnpj": "10846953487",
+			"nm_razao_social": "KARLINDA FREIRE TRINDADE",
+			"idCorretora": 4
+		},
+		{
+			"id": 60,
+			"nr_cnpj": "10826356388",
+			"nm_razao_social": "PABLO LIBARDI NORONHA",
+			"idCorretora": 10
+		},
+		{
+			"id": 61,
+			"nr_cnpj": "10028250982",
+			"nm_razao_social": "LEILA DINIZ DAVEL DE MELO",
+			"idCorretora": 73192
+		},
+		{
+			"id": 62,
+			"nr_cnpj": "10808053786",
+			"nm_razao_social": "SELMIRA PUFAL PERSICI",
+			"idCorretora": 4
+		},
+		{
+			"id": 64,
+			"nr_cnpj": "11003257784",
+			"nm_razao_social": "DAMIANA LUANA",
+			"idCorretora": null
+		},
+		{
+			"id": 65,
+			"nr_cnpj": "10051657580",
+			"nm_razao_social": "MARIA CRISTINA CASSANI",
+			"idCorretora": 4
+		},
+		{
+			"id": 66,
+			"nr_cnpj": "10174050987",
+			"nm_razao_social": "CLAUDIA MARIA DE OLIVEIRA ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 67,
+			"nr_cnpj": "11435654489",
+			"nm_razao_social": "UMBELINA FERNANDES LEITE",
+			"idCorretora": 4
+		},
+		{
+			"id": 68,
+			"nr_cnpj": "17805053480",
+			"nm_razao_social": "LEONOR LOPES VEROL",
+			"idCorretora": null
+		},
+		{
+			"id": 69,
+			"nr_cnpj": "17317955381",
+			"nm_razao_social": "DEUSDETE DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 71,
+			"nr_cnpj": "11111151181",
+			"nm_razao_social": "CESAR CORREA",
+			"idCorretora": null
+		},
+		{
+			"id": 72,
+			"nr_cnpj": "15595056389",
+			"nm_razao_social": "EDILAR SPERANDIO",
+			"idCorretora": 4
+		},
+		{
+			"id": 73,
+			"nr_cnpj": "10346950483",
+			"nm_razao_social": "ALTEMAR DA SILVA MENDONCA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74,
+			"nr_cnpj": "10703859886",
+			"nm_razao_social": "JEANN CLEY BATISTA",
+			"idCorretora": 10
+		},
+		{
+			"id": 75,
+			"nr_cnpj": "18457257180",
+			"nm_razao_social": "OTTO JOSE GROSSMANN CAMPOS",
+			"idCorretora": 10
+		},
+		{
+			"id": 76,
+			"nr_cnpj": "10872852985",
+			"nm_razao_social": "JOSIANE MACHADO TRANCOSO",
+			"idCorretora": 5
+		},
+		{
+			"id": 77,
+			"nr_cnpj": "11485353088",
+			"nm_razao_social": "FLAVIA MEIRELLES HERZOG",
+			"idCorretora": null
+		},
+		{
+			"id": 78,
+			"nr_cnpj": "10728855982",
+			"nm_razao_social": "Ingrid Lea Sampaio Barbosa",
+			"idCorretora": 5
+		},
+		{
+			"id": 79,
+			"nr_cnpj": "12320955085",
+			"nm_razao_social": "CONSULTOR GENERICO BENEVIX",
+			"idCorretora": null
+		},
+		{
+			"id": 80,
+			"nr_cnpj": "10199059780",
+			"nm_razao_social": "Fabricio Sales de Souza",
+			"idCorretora": 5
+		},
+		{
+			"id": 81,
+			"nr_cnpj": "10023553381",
+			"nm_razao_social": "CONSULTOR GENERICO UV",
+			"idCorretora": null
+		},
+		{
+			"id": 83,
+			"nr_cnpj": "18556658887",
+			"nm_razao_social": "CONSULTOR GENERICO LIFE",
+			"idCorretora": null
+		},
+		{
+			"id": 85,
+			"nr_cnpj": "12501858886",
+			"nm_razao_social": "CONSULTOR GENERICO SESTINI CORPORATE",
+			"idCorretora": null
+		},
+		{
+			"id": 86,
+			"nr_cnpj": "12442258984",
+			"nm_razao_social": "DEJAIR CESAR BALLISTA",
+			"idCorretora": 14
+		},
+		{
+			"id": 87,
+			"nr_cnpj": "10033957283",
+			"nm_razao_social": "CLEONICE VIDAL CASTRO",
+			"idCorretora": null
+		},
+		{
+			"id": 88,
+			"nr_cnpj": "16025351286",
+			"nm_razao_social": "DAMIAO GOMES DA SILVA",
+			"idCorretora": 14
+		},
+		{
+			"id": 89,
+			"nr_cnpj": "17725355487",
+			"nm_razao_social": "DANILSON  SENNA CUNHA",
+			"idCorretora": null
+		},
+		{
+			"id": 90,
+			"nr_cnpj": "10311051780",
+			"nm_razao_social": "VALDELINA RAMOS DE PAULA",
+			"idCorretora": null
+		},
+		{
+			"id": 91,
+			"nr_cnpj": "10876356985",
+			"nm_razao_social": "KAROLYNNE CAVEDO SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 92,
+			"nr_cnpj": "10171954182",
+			"nm_razao_social": "ANTONIO MARCIO MONTEIRO MILAGRES",
+			"idCorretora": 14
+		},
+		{
+			"id": 93,
+			"nr_cnpj": "11368357887",
+			"nm_razao_social": "JOAO CLAUDIO COCK MORENO",
+			"idCorretora": 14
+		},
+		{
+			"id": 94,
+			"nr_cnpj": "10128855081",
+			"nm_razao_social": "ROGERIA DE MENEZES MOREIRA",
+			"idCorretora": 73305
+		},
+		{
+			"id": 95,
+			"nr_cnpj": "11059451788",
+			"nm_razao_social": "TAMARA PESSIN BOSSETTI",
+			"idCorretora": 14
+		},
+		{
+			"id": 96,
+			"nr_cnpj": "10093759389",
+			"nm_razao_social": "Tiago Costa Ramos",
+			"idCorretora": 14
+		},
+		{
+			"id": 97,
+			"nr_cnpj": "10749951583",
+			"nm_razao_social": "LARISSA DA SILVA SPERANDIO",
+			"idCorretora": 72065
+		},
+		{
+			"id": 98,
+			"nr_cnpj": "13249358189",
+			"nm_razao_social": "WALDEMAR XAVIER FILHO (SIMONAL)",
+			"idCorretora": 14
+		},
+		{
+			"id": 99,
+			"nr_cnpj": "10857450884",
+			"nm_razao_social": "DAYVISSON M MOTA",
+			"idCorretora": 5
+		},
+		{
+			"id": 100,
+			"nr_cnpj": "11178959080",
+			"nm_razao_social": "CLAUDIANE CARDOSO DE OLIVEIRA",
+			"idCorretora": 14
+		},
+		{
+			"id": 101,
+			"nr_cnpj": "12442256184",
+			"nm_razao_social": "FELIPE ROBERTO ROCHA",
+			"idCorretora": 28
+		},
+		{
+			"id": 102,
+			"nr_cnpj": "10974359681",
+			"nm_razao_social": "FERNANDO ROBERTO DE OLIVEIRA",
+			"idCorretora": 26
+		},
+		{
+			"id": 103,
+			"nr_cnpj": "19039850383",
+			"nm_razao_social": "MARIA DE LOURDES PAQUIELA",
+			"idCorretora": null
+		},
+		{
+			"id": 104,
+			"nr_cnpj": "17116554386",
+			"nm_razao_social": "UBIRACI LIMA DE MORAES",
+			"idCorretora": 4
+		},
+		{
+			"id": 105,
+			"nr_cnpj": "10590656186",
+			"nm_razao_social": "PRISCILA LOPES DE OLIVEIRA",
+			"idCorretora": 4
+		},
+		{
+			"id": 106,
+			"nr_cnpj": "17997053682",
+			"nm_razao_social": "JOSE CARLOS RAMOS NASCIMENTO",
+			"idCorretora": null
+		},
+		{
+			"id": 107,
+			"nr_cnpj": "10227159889",
+			"nm_razao_social": "VALERIA SARCNELLI RAMOS",
+			"idCorretora": null
+		},
+		{
+			"id": 108,
+			"nr_cnpj": "10077757280",
+			"nm_razao_social": "Reny da Silva Ferreira",
+			"idCorretora": 4
+		},
+		{
+			"id": 109,
+			"nr_cnpj": "18630258383",
+			"nm_razao_social": "IEDA ROSA",
+			"idCorretora": 14
+		},
+		{
+			"id": 110,
+			"nr_cnpj": "11085751584",
+			"nm_razao_social": "ERICA REBOUCAS",
+			"idCorretora": 4
+		},
+		{
+			"id": 111,
+			"nr_cnpj": "10000050080",
+			"nm_razao_social": "JOAO VIEIRA DE BRITO",
+			"idCorretora": 4
+		},
+		{
+			"id": 112,
+			"nr_cnpj": "11404553986",
+			"nm_razao_social": "FELIPE EUGENIO COCK MORENO",
+			"idCorretora": 73305
+		},
+		{
+			"id": 113,
+			"nr_cnpj": "11637258589",
+			"nm_razao_social": "FRANCISCO ABILIO DOURADO FELIX",
+			"idCorretora": 4
+		},
+		{
+			"id": 114,
+			"nr_cnpj": "10744757889",
+			"nm_razao_social": "BRUNO FERREIRA CALDEIRA",
+			"idCorretora": 5
+		},
+		{
+			"id": 115,
+			"nr_cnpj": "11162451588",
+			"nm_razao_social": "ANELISE CARNEIRO LUCIO",
+			"idCorretora": 14
+		},
+		{
+			"id": 116,
+			"nr_cnpj": "10173854085",
+			"nm_razao_social": "RENATA FERREIRA DA SILVA MELLO",
+			"idCorretora": 4
+		},
+		{
+			"id": 117,
+			"nr_cnpj": "10554351882",
+			"nm_razao_social": "LARISSE BARRETO CONTTI SALES",
+			"idCorretora": 4
+		},
+		{
+			"id": 118,
+			"nr_cnpj": "11178459181",
+			"nm_razao_social": "JOSE VIEIRA DE BRITTO",
+			"idCorretora": 4
+		},
+		{
+			"id": 119,
+			"nr_cnpj": "11021558389",
+			"nm_razao_social": "MIRELLA SIMOES COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 120,
+			"nr_cnpj": "10796659586",
+			"nm_razao_social": "DELIO MOURA DE CARMO JUNIOR",
+			"idCorretora": 4
+		},
+		{
+			"id": 121,
+			"nr_cnpj": "10958857880",
+			"nm_razao_social": "LILIAN DA ROS DUMER",
+			"idCorretora": 4
+		},
+		{
+			"id": 122,
+			"nr_cnpj": "11122054584",
+			"nm_razao_social": "JORDANA DE PAULA MANZIOLI",
+			"idCorretora": 64026
+		},
+		{
+			"id": 123,
+			"nr_cnpj": "10611953084",
+			"nm_razao_social": "FABIANA LORENA GARCIA",
+			"idCorretora": 14
+		},
+		{
+			"id": 124,
+			"nr_cnpj": "11074157187",
+			"nm_razao_social": "RAFAEL EVANGELISTA SILVA",
+			"idCorretora": 12
+		},
+		{
+			"id": 125,
+			"nr_cnpj": "11023252682",
+			"nm_razao_social": "RANIELLI DOS REIS SEIXAS",
+			"idCorretora": null
+		},
+		{
+			"id": 126,
+			"nr_cnpj": "11337559689",
+			"nm_razao_social": "SYNTIA LOPES DIAS",
+			"idCorretora": 11
+		},
+		{
+			"id": 127,
+			"nr_cnpj": "13885557683",
+			"nm_razao_social": "AGERSON APARECIDO DOS SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 128,
+			"nr_cnpj": "10173557683",
+			"nm_razao_social": "ANDERSON PIRES",
+			"idCorretora": 17
+		},
+		{
+			"id": 129,
+			"nr_cnpj": "10012454288",
+			"nm_razao_social": "EGILA DA PENHA AMORIM",
+			"idCorretora": null
+		},
+		{
+			"id": 130,
+			"nr_cnpj": "10714450682",
+			"nm_razao_social": "ELIANI MIGUEL PEREIRA SOUZA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 131,
+			"nr_cnpj": "12463655089",
+			"nm_razao_social": "ESIO MARTINS DE SOUZA",
+			"idCorretora": 17
+		},
+		{
+			"id": 132,
+			"nr_cnpj": "10438155489",
+			"nm_razao_social": "IRACI DA CONCEICAO SIQUEIRA",
+			"idCorretora": 26
+		},
+		{
+			"id": 133,
+			"nr_cnpj": "10472259287",
+			"nm_razao_social": "ITAMAR PINHEIRO DE SOUZA",
+			"idCorretora": 17
+		},
+		{
+			"id": 134,
+			"nr_cnpj": "17513652484",
+			"nm_razao_social": "JADILSON HERCULANO",
+			"idCorretora": null
+		},
+		{
+			"id": 135,
+			"nr_cnpj": "17161359680",
+			"nm_razao_social": "WALDECK PIRAJA DE ATHAYDE",
+			"idCorretora": null
+		},
+		{
+			"id": 136,
+			"nr_cnpj": "10347251881",
+			"nm_razao_social": "IVAN SIQUEIRA PIMENTEL",
+			"idCorretora": 17
+		},
+		{
+			"id": 137,
+			"nr_cnpj": "10812253086",
+			"nm_razao_social": "MARILZA DE FATIMA ROCHA",
+			"idCorretora": 17
+		},
+		{
+			"id": 138,
+			"nr_cnpj": "17985457888",
+			"nm_razao_social": "JOSE EDUARDO VIEIRA JUNIOR",
+			"idCorretora": 64026
+		},
+		{
+			"id": 139,
+			"nr_cnpj": "17511754582",
+			"nm_razao_social": "DARCI AHNHERT",
+			"idCorretora": 73197
+		},
+		{
+			"id": 140,
+			"nr_cnpj": "18505155080",
+			"nm_razao_social": "JORGE LUIZ DE OLIVEIRA",
+			"idCorretora": 64026
+		},
+		{
+			"id": 141,
+			"nr_cnpj": "10169650389",
+			"nm_razao_social": "MARIA DA PENHA CORREIA PEREIRA",
+			"idCorretora": 17
+		},
+		{
+			"id": 142,
+			"nr_cnpj": "19099157289",
+			"nm_razao_social": "FERNANDO SERGIO DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 143,
+			"nr_cnpj": "13632154483",
+			"nm_razao_social": "JUSSARA MIRTES GASPERAZZO",
+			"idCorretora": null
+		},
+		{
+			"id": 144,
+			"nr_cnpj": "10784257781",
+			"nm_razao_social": "ALEXANDRE FONSECA FERREIRA DA SILVA",
+			"idCorretora": 73087
+		},
+		{
+			"id": 145,
+			"nr_cnpj": "16873457189",
+			"nm_razao_social": "ANGELA MARIA GONCALVES DA SILVA",
+			"idCorretora": 73087
+		},
+		{
+			"id": 146,
+			"nr_cnpj": "11093250888",
+			"nm_razao_social": "LORENA PAULA DE O F ARANDA",
+			"idCorretora": 17
+		},
+		{
+			"id": 147,
+			"nr_cnpj": "10135450786",
+			"nm_razao_social": "MARCIA NOGUEIRA PRADO",
+			"idCorretora": null
+		},
+		{
+			"id": 148,
+			"nr_cnpj": "16109357286",
+			"nm_razao_social": "PAULO ROBERTO DE MEDEIROS",
+			"idCorretora": 72021
+		},
+		{
+			"id": 149,
+			"nr_cnpj": "15260156187",
+			"nm_razao_social": "PEDRO LUIZ NEVES",
+			"idCorretora": 17
+		},
+		{
+			"id": 150,
+			"nr_cnpj": "17195458880",
+			"nm_razao_social": "JOSE ANTONIO REIS NETO",
+			"idCorretora": 64026
+		},
+		{
+			"id": 151,
+			"nr_cnpj": "16394152386",
+			"nm_razao_social": "JOSE HENRIQUE MACHADO",
+			"idCorretora": null
+		},
+		{
+			"id": 152,
+			"nr_cnpj": "10726252389",
+			"nm_razao_social": "EDNA MARIA CAMPOS",
+			"idCorretora": 72033
+		},
+		{
+			"id": 153,
+			"nr_cnpj": "13948851680",
+			"nm_razao_social": "LUIZ ALBERTO BERNADES",
+			"idCorretora": 64022
+		},
+		{
+			"id": 154,
+			"nr_cnpj": "18612858187",
+			"nm_razao_social": "ROSEMARY DOS SANTOS LIMA",
+			"idCorretora": 17
+		},
+		{
+			"id": 155,
+			"nr_cnpj": "17424656087",
+			"nm_razao_social": "MANOEL LENOIR ALVARENGA BRAZIL",
+			"idCorretora": null
+		},
+		{
+			"id": 156,
+			"nr_cnpj": "11061554986",
+			"nm_razao_social": "MARCIA MARCULINO DA SILVA BORGUI",
+			"idCorretora": 17
+		},
+		{
+			"id": 157,
+			"nr_cnpj": "13383855782",
+			"nm_razao_social": "EVANDRO GERALDO OLIVEIRA",
+			"idCorretora": 18
+		},
+		{
+			"id": 158,
+			"nr_cnpj": "10689653982",
+			"nm_razao_social": "ELTON SILVA",
+			"idCorretora": 18
+		},
+		{
+			"id": 159,
+			"nr_cnpj": "17065250287",
+			"nm_razao_social": "HUDSON NASCIMENTO VITAL",
+			"idCorretora": 17
+		},
+		{
+			"id": 160,
+			"nr_cnpj": "11637258589",
+			"nm_razao_social": "FRANCISCO ABILIO DOURADO FELIX",
+			"idCorretora": null
+		},
+		{
+			"id": 161,
+			"nr_cnpj": "10320054683",
+			"nm_razao_social": "FERNANDO JOSE DA SILVA FREIRE",
+			"idCorretora": 72033
+		},
+		{
+			"id": 162,
+			"nr_cnpj": "10519258981",
+			"nm_razao_social": "LUCIANA CRISTINA CANAL",
+			"idCorretora": 5
+		},
+		{
+			"id": 163,
+			"nr_cnpj": "10554559388",
+			"nm_razao_social": "MICHELE BARBOSA DE OLIVEIRA RODRIGUES",
+			"idCorretora": null
+		},
+		{
+			"id": 164,
+			"nr_cnpj": "10199757084",
+			"nm_razao_social": "ANGELINA SALVADOR SPERANDIO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 165,
+			"nr_cnpj": "11483850483",
+			"nm_razao_social": "KARIE MARROCH MARTINS",
+			"idCorretora": 73113
+		},
+		{
+			"id": 166,
+			"nr_cnpj": "10202956684",
+			"nm_razao_social": "SANDRO RIBEIRO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 167,
+			"nr_cnpj": "11174152485",
+			"nm_razao_social": "LEANDRO KLIPPEL",
+			"idCorretora": 17
+		},
+		{
+			"id": 168,
+			"nr_cnpj": "11074157187",
+			"nm_razao_social": "RAFAEL EVANGELISTA SILVA",
+			"idCorretora": 21
+		},
+		{
+			"id": 169,
+			"nr_cnpj": "10225757185",
+			"nm_razao_social": "ADRIANA FIALHO DA SILVA RODRIGUES",
+			"idCorretora": 73197
+		},
+		{
+			"id": 170,
+			"nr_cnpj": "17984057081",
+			"nm_razao_social": "ALEXANDRE VARGAS CHARPINEL",
+			"idCorretora": null
+		},
+		{
+			"id": 171,
+			"nr_cnpj": "11243754282",
+			"nm_razao_social": "ALEXANDRE D AVILA CHARPINEL",
+			"idCorretora": null
+		},
+		{
+			"id": 172,
+			"nr_cnpj": "10052953084",
+			"nm_razao_social": "ADRIANO DOUGLAS DE ALMEIDA",
+			"idCorretora": 19
+		},
+		{
+			"id": 173,
+			"nr_cnpj": "13380458986",
+			"nm_razao_social": "CONSULTOR GENÈRICO LIFE 2",
+			"idCorretora": null
+		},
+		{
+			"id": 174,
+			"nr_cnpj": "10017151888",
+			"nm_razao_social": "SARA MARIA PINHEIRO ZUQUI",
+			"idCorretora": 4
+		},
+		{
+			"id": 175,
+			"nr_cnpj": "10892358082",
+			"nm_razao_social": "JULYEVERSON MERCHI DA SILVA",
+			"idCorretora": 4
+		},
+		{
+			"id": 176,
+			"nr_cnpj": "18874757080",
+			"nm_razao_social": "FATIMA BARBOSA DA SILVA OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 177,
+			"nr_cnpj": "11162151585",
+			"nm_razao_social": "DEYSEANE FERREIRA DOS SANTOS TESCH",
+			"idCorretora": 22
+		},
+		{
+			"id": 178,
+			"nr_cnpj": "11209656681",
+			"nm_razao_social": "GLEMRSON CERQUEIRA",
+			"idCorretora": 22
+		},
+		{
+			"id": 179,
+			"nr_cnpj": "10052953084",
+			"nm_razao_social": "ADRIANO DOUGLAS DE ALMEIDA",
+			"idCorretora": null
+		},
+		{
+			"id": 180,
+			"nr_cnpj": "10052950888",
+			"nm_razao_social": "EDERSON FRANCISCO DA CRUZ",
+			"idCorretora": 72021
+		},
+		{
+			"id": 181,
+			"nr_cnpj": "11310250285",
+			"nm_razao_social": "CONSULTOR GENERICO ILHA AZUL",
+			"idCorretora": null
+		},
+		{
+			"id": 182,
+			"nr_cnpj": "10755957982",
+			"nm_razao_social": "WLADIMIR MATHIAS DA SILVA",
+			"idCorretora": 72063
+		},
+		{
+			"id": 183,
+			"nr_cnpj": "18385454887",
+			"nm_razao_social": "MARCIO OLIVEIRA GOMES",
+			"idCorretora": 73197
+		},
+		{
+			"id": 184,
+			"nr_cnpj": "11512551884",
+			"nm_razao_social": "KARINA CANHOLATO FERNANDES",
+			"idCorretora": 5
+		},
+		{
+			"id": 185,
+			"nr_cnpj": "11424557685",
+			"nm_razao_social": "VALDO JUNIOR MORAES DA SILVA",
+			"idCorretora": 4
+		},
+		{
+			"id": 186,
+			"nr_cnpj": "10585557887",
+			"nm_razao_social": "CONSULTOR GENERICO NEW LIFE",
+			"idCorretora": null
+		},
+		{
+			"id": 187,
+			"nr_cnpj": "11339551989",
+			"nm_razao_social": "CONSULTOR GENERICO CS",
+			"idCorretora": null
+		},
+		{
+			"id": 188,
+			"nr_cnpj": "11110753587",
+			"nm_razao_social": "KIM MORGADO CALVET DA CUNHA",
+			"idCorretora": 5
+		},
+		{
+			"id": 189,
+			"nr_cnpj": "10728454681",
+			"nm_razao_social": "EDSON CARLOS MASCHEN",
+			"idCorretora": 23
+		},
+		{
+			"id": 190,
+			"nr_cnpj": "16527953887",
+			"nm_razao_social": "MAGALY  VENERATIONE MARQUES",
+			"idCorretora": null
+		},
+		{
+			"id": 191,
+			"nr_cnpj": "10721459681",
+			"nm_razao_social": "LILIANE PORTO DA SILVA LUZ",
+			"idCorretora": 73197
+		},
+		{
+			"id": 192,
+			"nr_cnpj": "11110753587",
+			"nm_razao_social": "KIM MORGADO CALVET DA CUNHA",
+			"idCorretora": null
+		},
+		{
+			"id": 193,
+			"nr_cnpj": "10028950685",
+			"nm_razao_social": "SANDRA CRISTINA SOUZA RAMOS",
+			"idCorretora": 4
+		},
+		{
+			"id": 194,
+			"nr_cnpj": "11475259088",
+			"nm_razao_social": "CONSULTOR GENERICO MIHA",
+			"idCorretora": null
+		},
+		{
+			"id": 195,
+			"nr_cnpj": "11319850883",
+			"nm_razao_social": "ALEXANDER RIBEIRO DOS SANTOS",
+			"idCorretora": 64024
+		},
+		{
+			"id": 196,
+			"nr_cnpj": "15752452682",
+			"nm_razao_social": "TELMA ROZA",
+			"idCorretora": 64026
+		},
+		{
+			"id": 197,
+			"nr_cnpj": "14434952280",
+			"nm_razao_social": "LEODINO BARROS  DOS SANTOS",
+			"idCorretora": 73225
+		},
+		{
+			"id": 198,
+			"nr_cnpj": "10228952782",
+			"nm_razao_social": "DAULINA CRISTINA NUNES DA SILVA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 199,
+			"nr_cnpj": "11243052388",
+			"nm_razao_social": "GILBERTO SBANO MORENO FILHO",
+			"idCorretora": 73305
+		},
+		{
+			"id": 200,
+			"nr_cnpj": "15793950487",
+			"nm_razao_social": "MARIA DE LOURDES OLIVEIRA TOIGO",
+			"idCorretora": 72021
+		},
+		{
+			"id": 201,
+			"nr_cnpj": "11139057987",
+			"nm_razao_social": "OTAVIO GASPERAZZO FERREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 202,
+			"nr_cnpj": "17615654680",
+			"nm_razao_social": "MATEUS MORENO RAMOS",
+			"idCorretora": null
+		},
+		{
+			"id": 203,
+			"nr_cnpj": "10023558185",
+			"nm_razao_social": "LUCILIA MARIA LIMA AMORIM",
+			"idCorretora": 32
+		},
+		{
+			"id": 204,
+			"nr_cnpj": "11697652287",
+			"nm_razao_social": "PIERRE SILVA CALMON",
+			"idCorretora": 17
+		},
+		{
+			"id": 205,
+			"nr_cnpj": "11084053885",
+			"nm_razao_social": "ELISANDA CANDIDA FRANCKY ALVES",
+			"idCorretora": 11
+		},
+		{
+			"id": 206,
+			"nr_cnpj": "19977452284",
+			"nm_razao_social": "EDIMAR PIMENTEL PEREIRA",
+			"idCorretora": 73305
+		},
+		{
+			"id": 207,
+			"nr_cnpj": "17617956586",
+			"nm_razao_social": "PEDRO JOSE DA SILVA",
+			"idCorretora": 26
+		},
+		{
+			"id": 208,
+			"nr_cnpj": "14190750680",
+			"nm_razao_social": "MARCOS BARBOSA DOS SANTOS",
+			"idCorretora": 72021
+		},
+		{
+			"id": 209,
+			"nr_cnpj": "11951153289",
+			"nm_razao_social": "DIOGENES DE OLIVEIRA",
+			"idCorretora": 26
+		},
+		{
+			"id": 210,
+			"nr_cnpj": "15464455080",
+			"nm_razao_social": "JOSE AUGUSTO DE FREITAS COUTINHO",
+			"idCorretora": null
+		},
+		{
+			"id": 211,
+			"nr_cnpj": "12738353188",
+			"nm_razao_social": "LUIZ CARLOS DOS SANTOS",
+			"idCorretora": 73113
+		},
+		{
+			"id": 212,
+			"nr_cnpj": "10171154481",
+			"nm_razao_social": "NILDA RODRIGUES ROSA",
+			"idCorretora": null
+		},
+		{
+			"id": 213,
+			"nr_cnpj": "10840359984",
+			"nm_razao_social": "HELOIZIO BATISTA GUEDES",
+			"idCorretora": 26
+		},
+		{
+			"id": 214,
+			"nr_cnpj": "10077956387",
+			"nm_razao_social": "JAQUELINE MARIM PEREIRA",
+			"idCorretora": 4
+		},
+		{
+			"id": 215,
+			"nr_cnpj": "10201650888",
+			"nm_razao_social": "JUCIMAR MIRANDA PEREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 216,
+			"nr_cnpj": "10746850985",
+			"nm_razao_social": "DEMETRIUS TANNURE",
+			"idCorretora": null
+		},
+		{
+			"id": 217,
+			"nr_cnpj": "15296056688",
+			"nm_razao_social": "GERSONIAS MOREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 218,
+			"nr_cnpj": "17267055187",
+			"nm_razao_social": "ELIZABETH DE SOUZA FRANCO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 219,
+			"nr_cnpj": "10685456987",
+			"nm_razao_social": "PAULO HENRIQUE BELO NUNES",
+			"idCorretora": 72067
+		},
+		{
+			"id": 220,
+			"nr_cnpj": "14729954985",
+			"nm_razao_social": "ELIZABETH SILVA MARTINS",
+			"idCorretora": null
+		},
+		{
+			"id": 221,
+			"nr_cnpj": "10346659788",
+			"nm_razao_social": "ZULMARA NEVES HERPIO ROCHA",
+			"idCorretora": 14
+		},
+		{
+			"id": 222,
+			"nr_cnpj": "11124451480",
+			"nm_razao_social": "YARA DA SILVA PIMENTA",
+			"idCorretora": 14
+		},
+		{
+			"id": 223,
+			"nr_cnpj": "17270058784",
+			"nm_razao_social": "ROMULO DE FREITAS BAESSA",
+			"idCorretora": 5
+		},
+		{
+			"id": 224,
+			"nr_cnpj": "10808053786",
+			"nm_razao_social": "SELMIRA PUFAL PERCISI",
+			"idCorretora": 72033
+		},
+		{
+			"id": 225,
+			"nr_cnpj": "10051657580",
+			"nm_razao_social": "MARIA CRISTINA CASSANI",
+			"idCorretora": 73197
+		},
+		{
+			"id": 226,
+			"nr_cnpj": "10942657989",
+			"nm_razao_social": "FLAVIA MEIRELES HERZOG",
+			"idCorretora": null
+		},
+		{
+			"id": 227,
+			"nr_cnpj": "10744757889",
+			"nm_razao_social": "BRUNO FERREIRA CALDEIRA",
+			"idCorretora": 11
+		},
+		{
+			"id": 228,
+			"nr_cnpj": "10796659586",
+			"nm_razao_social": "DELIO MOURA DE CARMO JUNIOR",
+			"idCorretora": 17
+		},
+		{
+			"id": 229,
+			"nr_cnpj": "11061554986",
+			"nm_razao_social": "MARCIA MARCULINO DA SILVA BORGUI",
+			"idCorretora": null
+		},
+		{
+			"id": 230,
+			"nr_cnpj": "11174152485",
+			"nm_razao_social": "LEANDRO KLIPPEL",
+			"idCorretora": null
+		},
+		{
+			"id": 231,
+			"nr_cnpj": "10755957982",
+			"nm_razao_social": "WLADMIR MATHIAS DA SILVA",
+			"idCorretora": 8
+		},
+		{
+			"id": 232,
+			"nr_cnpj": "10934251380",
+			"nm_razao_social": "VANDER PAULO CORREA PIMENTA",
+			"idCorretora": 64024
+		},
+		{
+			"id": 233,
+			"nr_cnpj": "10278357489",
+			"nm_razao_social": "CONSULTOR GENERICO MAXIMUSS",
+			"idCorretora": null
+		},
+		{
+			"id": 234,
+			"nr_cnpj": "12523459680",
+			"nm_razao_social": "JULIO CESAR FRAUCHES",
+			"idCorretora": 72021
+		},
+		{
+			"id": 235,
+			"nr_cnpj": "11324253184",
+			"nm_razao_social": "RENAN GOBBI SOARES",
+			"idCorretora": 14
+		},
+		{
+			"id": 236,
+			"nr_cnpj": "10580058386",
+			"nm_razao_social": "BRUNA DE SOUZA",
+			"idCorretora": null
+		},
+		{
+			"id": 237,
+			"nr_cnpj": "11439250580",
+			"nm_razao_social": "GUILHERME TIGGES RAMOS",
+			"idCorretora": 14
+		},
+		{
+			"id": 241,
+			"nr_cnpj": "10610257383",
+			"nm_razao_social": "PEDRO MIGUEL PAULINO MENDES",
+			"idCorretora": 4
+		},
+		{
+			"id": 242,
+			"nr_cnpj": "10040358284",
+			"nm_razao_social": "PAULO SERGIO FERREIRA SABINO",
+			"idCorretora": 73197
+		},
+		{
+			"id": 243,
+			"nr_cnpj": "10316755089",
+			"nm_razao_social": "ANDRESSA DE SOUZA",
+			"idCorretora": 25
+		},
+		{
+			"id": 244,
+			"nr_cnpj": "19683450085",
+			"nm_razao_social": "ALEXANDRE SANTOS MACEDO",
+			"idCorretora": 72044
+		},
+		{
+			"id": 245,
+			"nr_cnpj": "10077653381",
+			"nm_razao_social": "ANA MONICA MARTINS CORREA",
+			"idCorretora": 25
+		},
+		{
+			"id": 246,
+			"nr_cnpj": "10738352981",
+			"nm_razao_social": "CRISTINA PAULINO DE AGUIAR LAIA",
+			"idCorretora": null
+		},
+		{
+			"id": 247,
+			"nr_cnpj": "10976952789",
+			"nm_razao_social": "DANIELA DE CASTRO PIRES",
+			"idCorretora": null
+		},
+		{
+			"id": 248,
+			"nr_cnpj": "10319256082",
+			"nm_razao_social": "ELIETE PREMOLI",
+			"idCorretora": 73366
+		},
+		{
+			"id": 249,
+			"nr_cnpj": "10053457683",
+			"nm_razao_social": "EVERTON REIS AGUIAR",
+			"idCorretora": 72051
+		},
+		{
+			"id": 250,
+			"nr_cnpj": "11239455981",
+			"nm_razao_social": "FELIPPE VIEIRA DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 251,
+			"nr_cnpj": "19619155181",
+			"nm_razao_social": "IZAQUE CAYRU",
+			"idCorretora": null
+		},
+		{
+			"id": 252,
+			"nr_cnpj": "19482953184",
+			"nm_razao_social": "JOSE RONALDO DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 253,
+			"nr_cnpj": "10081052589",
+			"nm_razao_social": "LUCIANA MARIA MATTOS PEDRO",
+			"idCorretora": null
+		},
+		{
+			"id": 254,
+			"nr_cnpj": "10317153089",
+			"nm_razao_social": "LUCIANO PAGANOTTI DE SOUZA",
+			"idCorretora": null
+		},
+		{
+			"id": 255,
+			"nr_cnpj": "10897055285",
+			"nm_razao_social": "LUIZ FERNANDO FASSARELLA DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 256,
+			"nr_cnpj": "15719153582",
+			"nm_razao_social": "LUCIDIO PEREIRA ROSA FILHO",
+			"idCorretora": null
+		},
+		{
+			"id": 257,
+			"nr_cnpj": "10633058780",
+			"nm_razao_social": "MARA RUBIA MANZATTO BELUCCI",
+			"idCorretora": null
+		},
+		{
+			"id": 258,
+			"nr_cnpj": "10528756589",
+			"nm_razao_social": "MARCOS RODRIGUES DA CRUZ",
+			"idCorretora": null
+		},
+		{
+			"id": 259,
+			"nr_cnpj": "12240655180",
+			"nm_razao_social": "NEY ANDERSON DE MORAES",
+			"idCorretora": null
+		},
+		{
+			"id": 260,
+			"nr_cnpj": "16525457883",
+			"nm_razao_social": "PAULO ROBERTO BRANDAO COUTINHO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 261,
+			"nr_cnpj": "10170756887",
+			"nm_razao_social": "RICARDO NASCIMENTO PORTO",
+			"idCorretora": null
+		},
+		{
+			"id": 262,
+			"nr_cnpj": "19364358780",
+			"nm_razao_social": "SILMAR DE SOUZA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 263,
+			"nr_cnpj": "19893156789",
+			"nm_razao_social": "FAWZIA SOUTO MAIOR DA FONSECA",
+			"idCorretora": 72037
+		},
+		{
+			"id": 264,
+			"nr_cnpj": "10152952583",
+			"nm_razao_social": "MARCOS ANTONIO MATEDI ALVES",
+			"idCorretora": 64026
+		},
+		{
+			"id": 265,
+			"nr_cnpj": "10458355485",
+			"nm_razao_social": "RANA CANDEIA DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 266,
+			"nr_cnpj": "11431559583",
+			"nm_razao_social": "MERY ELLEN ROSA LEAL CHAGAS",
+			"idCorretora": 4
+		},
+		{
+			"id": 267,
+			"nr_cnpj": "10349553689",
+			"nm_razao_social": "ZENILDA DOMINGUES RAMOS GIANORDOLI",
+			"idCorretora": null
+		},
+		{
+			"id": 268,
+			"nr_cnpj": "17347355082",
+			"nm_razao_social": "EVERTON GIANORDOLI FILHO",
+			"idCorretora": 27
+		},
+		{
+			"id": 269,
+			"nr_cnpj": "15555757785",
+			"nm_razao_social": "LUCIENE FERREIRA CAIRES",
+			"idCorretora": null
+		},
+		{
+			"id": 270,
+			"nr_cnpj": "10018157180",
+			"nm_razao_social": "MARINEZ RODRIGUES",
+			"idCorretora": null
+		},
+		{
+			"id": 271,
+			"nr_cnpj": "10846357382",
+			"nm_razao_social": "CRISTIANA PAULA DOS ANJOS OLIVEIRA CESPES",
+			"idCorretora": 25
+		},
+		{
+			"id": 272,
+			"nr_cnpj": "14928058380",
+			"nm_razao_social": "SIRLEIA CARLOS DE ANDRADE",
+			"idCorretora": 25
+		},
+		{
+			"id": 273,
+			"nr_cnpj": "10864255280",
+			"nm_razao_social": "FABIANA BARATA SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 274,
+			"nr_cnpj": "10703859886",
+			"nm_razao_social": "JEANN CLEY BATISTA",
+			"idCorretora": 10
+		},
+		{
+			"id": 275,
+			"nr_cnpj": "11512455481",
+			"nm_razao_social": "MARIZA PEREIRA KLIPEL",
+			"idCorretora": 26
+		},
+		{
+			"id": 276,
+			"nr_cnpj": "10556152182",
+			"nm_razao_social": "CARLOS HENRIQUE ROCHA PAIXAO",
+			"idCorretora": null
+		},
+		{
+			"id": 277,
+			"nr_cnpj": "17516458383",
+			"nm_razao_social": "NESTOR ANTONIO WANZELER",
+			"idCorretora": null
+		},
+		{
+			"id": 278,
+			"nr_cnpj": "10911551688",
+			"nm_razao_social": "MIRIA NUNES ESPOST",
+			"idCorretora": null
+		},
+		{
+			"id": 279,
+			"nr_cnpj": "10082354984",
+			"nm_razao_social": "MARCAL LIMA SALLES",
+			"idCorretora": 25
+		},
+		{
+			"id": 280,
+			"nr_cnpj": "15749558588",
+			"nm_razao_social": "DEUSA MARIA SEQUIM ZANETI",
+			"idCorretora": null
+		},
+		{
+			"id": 281,
+			"nr_cnpj": "13498453684",
+			"nm_razao_social": "GERARDI MEDEIROS GONCALVES",
+			"idCorretora": 4
+		},
+		{
+			"id": 282,
+			"nr_cnpj": "15769254785",
+			"nm_razao_social": "EDSON G SANTANA",
+			"idCorretora": null
+		},
+		{
+			"id": 283,
+			"nr_cnpj": "11469854387",
+			"nm_razao_social": "IAN RAMOS TORRES",
+			"idCorretora": null
+		},
+		{
+			"id": 284,
+			"nr_cnpj": "16582853488",
+			"nm_razao_social": "JOSE CARLOS DE BRITO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 285,
+			"nr_cnpj": "11045452181",
+			"nm_razao_social": "JEFFERSON TOLEDO DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 286,
+			"nr_cnpj": "10317253586",
+			"nm_razao_social": "SUELI APARECIDA SILVA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 287,
+			"nr_cnpj": "17106957585",
+			"nm_razao_social": "NEIDE ROZA MACHADO",
+			"idCorretora": 73197
+		},
+		{
+			"id": 288,
+			"nr_cnpj": "10077757180",
+			"nm_razao_social": "RENY DA SILVA FERREIRA",
+			"idCorretora": 73305
+		},
+		{
+			"id": 289,
+			"nr_cnpj": "10392753187",
+			"nm_razao_social": "SIDNEI VENANCIO",
+			"idCorretora": 5
+		},
+		{
+			"id": 290,
+			"nr_cnpj": "11465950882",
+			"nm_razao_social": "AMANDA DE OLIVEIRA BARBOSA",
+			"idCorretora": null
+		},
+		{
+			"id": 291,
+			"nr_cnpj": "10717656380",
+			"nm_razao_social": "GLAUCIANA LELLIS MARTINS",
+			"idCorretora": 73197
+		},
+		{
+			"id": 292,
+			"nr_cnpj": "11458558288",
+			"nm_razao_social": "ANA CAROLINA CASTRO NEVES",
+			"idCorretora": 4
+		},
+		{
+			"id": 293,
+			"nr_cnpj": "16675059584",
+			"nm_razao_social": "FLORIANO DA SILVA MACHADO",
+			"idCorretora": null
+		},
+		{
+			"id": 294,
+			"nr_cnpj": "10684358282",
+			"nm_razao_social": "SILVIA DE FARIAS CONLIA MARQUES",
+			"idCorretora": null
+		},
+		{
+			"id": 295,
+			"nr_cnpj": "12206457485",
+			"nm_razao_social": "EUSTAQUIO FONSECA",
+			"idCorretora": 73305
+		},
+		{
+			"id": 296,
+			"nr_cnpj": "10135654989",
+			"nm_razao_social": "REGINA SEIBCIPRIANO DE SILLOS",
+			"idCorretora": 64026
+		},
+		{
+			"id": 297,
+			"nr_cnpj": "11214353483",
+			"nm_razao_social": "LORAINE DAVEL DE MELO",
+			"idCorretora": null
+		},
+		{
+			"id": 298,
+			"nr_cnpj": "19374956385",
+			"nm_razao_social": "MARCIA REGINA LINS GARCIA",
+			"idCorretora": null
+		},
+		{
+			"id": 299,
+			"nr_cnpj": "10393059189",
+			"nm_razao_social": "FABIANA MOTTA RIBEIRO",
+			"idCorretora": null
+		},
+		{
+			"id": 300,
+			"nr_cnpj": "17807750180",
+			"nm_razao_social": "LOURDES RONCETTI PIMENTA",
+			"idCorretora": null
+		},
+		{
+			"id": 301,
+			"nr_cnpj": "13294452484",
+			"nm_razao_social": "DANIELLA ROBERTA N S CARVALHO",
+			"idCorretora": 73197
+		},
+		{
+			"id": 302,
+			"nr_cnpj": "10080850082",
+			"nm_razao_social": "EDNETE ZUCCOLOTTO RAIS",
+			"idCorretora": null
+		},
+		{
+			"id": 303,
+			"nr_cnpj": "10100156086",
+			"nm_razao_social": "PATRICIA RAQUEL COSTA FOLGACO",
+			"idCorretora": null
+		},
+		{
+			"id": 304,
+			"nr_cnpj": "10310357983",
+			"nm_razao_social": "DOUGLAS DE OLIVEIRA SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 305,
+			"nr_cnpj": "19688750081",
+			"nm_razao_social": "MARCOS HENRIQUE PIMENTEL",
+			"idCorretora": 72033
+		},
+		{
+			"id": 306,
+			"nr_cnpj": "11284054681",
+			"nm_razao_social": "LUIZ GUILHERME PAIVA RAMOS",
+			"idCorretora": null
+		},
+		{
+			"id": 307,
+			"nr_cnpj": "11021257587",
+			"nm_razao_social": "JULIANA NUNES FERNANDES",
+			"idCorretora": 5
+		},
+		{
+			"id": 308,
+			"nr_cnpj": "10713058886",
+			"nm_razao_social": "ADIANIA DA ROCHA LYRA",
+			"idCorretora": null
+		},
+		{
+			"id": 309,
+			"nr_cnpj": "19137957688",
+			"nm_razao_social": "CASSIA REIS SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 310,
+			"nr_cnpj": "10730556487",
+			"nm_razao_social": "LUCIENE CRISTIANE DE SOUZA",
+			"idCorretora": 6
+		},
+		{
+			"id": 311,
+			"nr_cnpj": "10466157186",
+			"nm_razao_social": "ALINE DE ALMEIDA RODRIGUES",
+			"idCorretora": 64024
+		},
+		{
+			"id": 312,
+			"nr_cnpj": "11034653988",
+			"nm_razao_social": "DANIELLE PONTES VITOR",
+			"idCorretora": null
+		},
+		{
+			"id": 313,
+			"nr_cnpj": "10736153688",
+			"nm_razao_social": "EMANUEL LACERDA",
+			"idCorretora": 26
+		},
+		{
+			"id": 314,
+			"nr_cnpj": "18283752386",
+			"nm_razao_social": "MAURICEIA RAPOSO SIQUEIRA",
+			"idCorretora": 38
+		},
+		{
+			"id": 315,
+			"nr_cnpj": "14885851583",
+			"nm_razao_social": "JOSE ROBERTO DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 316,
+			"nr_cnpj": "19819158180",
+			"nm_razao_social": "MARILIA ALVES DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 317,
+			"nr_cnpj": "10098150280",
+			"nm_razao_social": "FABIOLA RODRIGUES FERRARE",
+			"idCorretora": null
+		},
+		{
+			"id": 318,
+			"nr_cnpj": "18844050582",
+			"nm_razao_social": "GIVALDO RODRIGUES DE SOUZA",
+			"idCorretora": 26
+		},
+		{
+			"id": 319,
+			"nr_cnpj": "10715250085",
+			"nm_razao_social": "ZILANDA FERREIRA DA SILVA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 320,
+			"nr_cnpj": "18828350780",
+			"nm_razao_social": "VALCEMAR DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 321,
+			"nr_cnpj": "11106359386",
+			"nm_razao_social": "PEDRO ANTONIO VIEIRA RODRIGUES",
+			"idCorretora": 73197
+		},
+		{
+			"id": 322,
+			"nr_cnpj": "19856355488",
+			"nm_razao_social": "CELINA MARTINS",
+			"idCorretora": 73194
+		},
+		{
+			"id": 323,
+			"nr_cnpj": "15267352189",
+			"nm_razao_social": "PAULO RENATO MARTINELLI",
+			"idCorretora": 72033
+		},
+		{
+			"id": 324,
+			"nr_cnpj": "10560054284",
+			"nm_razao_social": "GEANE DE SOUZA OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 325,
+			"nr_cnpj": "17424550882",
+			"nm_razao_social": "KELLYANN GIOVANELLI BARBOSA",
+			"idCorretora": null
+		},
+		{
+			"id": 326,
+			"nr_cnpj": "10021654080",
+			"nm_razao_social": "SHERLY FAVARATO",
+			"idCorretora": null
+		},
+		{
+			"id": 327,
+			"nr_cnpj": "12799056582",
+			"nm_razao_social": "LUCILEIA GOMES DA SILVA",
+			"idCorretora": 38
+		},
+		{
+			"id": 328,
+			"nr_cnpj": "10550254489",
+			"nm_razao_social": "CAMILA EMERICK DE SA ANDRE",
+			"idCorretora": 4
+		},
+		{
+			"id": 329,
+			"nr_cnpj": "10821859082",
+			"nm_razao_social": "ELANE CRISTINA SANTOS DE MINAS",
+			"idCorretora": null
+		},
+		{
+			"id": 330,
+			"nr_cnpj": "19156053282",
+			"nm_razao_social": "ARGEMIRO JOSE ALVES",
+			"idCorretora": null
+		},
+		{
+			"id": 331,
+			"nr_cnpj": "10080551381",
+			"nm_razao_social": "VAULDIRENE MARIA BONATTI",
+			"idCorretora": null
+		},
+		{
+			"id": 332,
+			"nr_cnpj": "10967550382",
+			"nm_razao_social": "CRISTIANO SOTERIO",
+			"idCorretora": null
+		},
+		{
+			"id": 333,
+			"nr_cnpj": "10731556589",
+			"nm_razao_social": "SULAMITA XAVIER DE SOUZA VIEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 334,
+			"nr_cnpj": "10078556589",
+			"nm_razao_social": "CLAUDIMAR GALLINA",
+			"idCorretora": null
+		},
+		{
+			"id": 335,
+			"nr_cnpj": "18179958485",
+			"nm_razao_social": "BENTO NEPOMUCENO NETO",
+			"idCorretora": 4
+		},
+		{
+			"id": 336,
+			"nr_cnpj": "10892853187",
+			"nm_razao_social": "WAGNER RAMOS FERNANDES",
+			"idCorretora": 72021
+		},
+		{
+			"id": 337,
+			"nr_cnpj": "10866553489",
+			"nm_razao_social": "CELIA DIAS",
+			"idCorretora": null
+		},
+		{
+			"id": 338,
+			"nr_cnpj": "10590159184",
+			"nm_razao_social": "MAXWELL GRATEK",
+			"idCorretora": 73194
+		},
+		{
+			"id": 339,
+			"nr_cnpj": "10436551180",
+			"nm_razao_social": "CLEBERSON SILVA INACIO",
+			"idCorretora": 73305
+		},
+		{
+			"id": 340,
+			"nr_cnpj": "19979451582",
+			"nm_razao_social": "DJALMA FERREIRA",
+			"idCorretora": 73087
+		},
+		{
+			"id": 341,
+			"nr_cnpj": "11225253783",
+			"nm_razao_social": "JOSIEL LUIZ PACHECO",
+			"idCorretora": null
+		},
+		{
+			"id": 342,
+			"nr_cnpj": "17510757480",
+			"nm_razao_social": "GEOVANE MIRANDA PIRES",
+			"idCorretora": null
+		},
+		{
+			"id": 343,
+			"nr_cnpj": "10523958684",
+			"nm_razao_social": "LIVIA MEIRELES PATRICIO",
+			"idCorretora": null
+		},
+		{
+			"id": 344,
+			"nr_cnpj": "11106052881",
+			"nm_razao_social": "CAROLINA CORDEIRO DE ANDRADE AMORIM",
+			"idCorretora": null
+		},
+		{
+			"id": 345,
+			"nr_cnpj": "11315958186",
+			"nm_razao_social": "VINICYUS BIANCO DE AMORIM SOARES",
+			"idCorretora": null
+		},
+		{
+			"id": 346,
+			"nr_cnpj": "10317150187",
+			"nm_razao_social": "FABIOLA BORGES NUNES DE PAIVA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 347,
+			"nr_cnpj": "10580651185",
+			"nm_razao_social": "MAIARA ARAUJO FASSARELLA",
+			"idCorretora": 5
+		},
+		{
+			"id": 348,
+			"nr_cnpj": "10198657986",
+			"nm_razao_social": "MANOEL ALVES DO NASCIMENTO",
+			"idCorretora": null
+		},
+		{
+			"id": 349,
+			"nr_cnpj": "15003053780",
+			"nm_razao_social": "ANTONIO CARLOS FONTOURA PEREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 350,
+			"nr_cnpj": "10572250580",
+			"nm_razao_social": "CLAUDIA DAVEL RAMOS",
+			"idCorretora": 72021
+		},
+		{
+			"id": 351,
+			"nr_cnpj": "11122958985",
+			"nm_razao_social": "VANUSA SCANDIANI CALENTTE",
+			"idCorretora": null
+		},
+		{
+			"id": 352,
+			"nr_cnpj": "10319552184",
+			"nm_razao_social": "SONIA LEAO DO AMARAL",
+			"idCorretora": null
+		},
+		{
+			"id": 353,
+			"nr_cnpj": "11181354786",
+			"nm_razao_social": "MARIA UJARISLEIA VIANA DA SILVA",
+			"idCorretora": 64036
+		},
+		{
+			"id": 354,
+			"nr_cnpj": "14858453988",
+			"nm_razao_social": "ADELSO JOSE CODECO",
+			"idCorretora": 32
+		},
+		{
+			"id": 355,
+			"nr_cnpj": "10708554780",
+			"nm_razao_social": "BRUNNA MARA ROCHA BORGES DIONIZIO",
+			"idCorretora": null
+		},
+		{
+			"id": 356,
+			"nr_cnpj": "10736154082",
+			"nm_razao_social": "EVANDRO APARECIDO VEIGA",
+			"idCorretora": null
+		},
+		{
+			"id": 357,
+			"nr_cnpj": "10596751483",
+			"nm_razao_social": "DOUGLAS DE OLIVEIRA SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 358,
+			"nr_cnpj": "11117953184",
+			"nm_razao_social": "ARTHUR HERMINIO GOBBI",
+			"idCorretora": 64026
+		},
+		{
+			"id": 359,
+			"nr_cnpj": "19857754580",
+			"nm_razao_social": "ORLANDO FERREIRA DE OLIVEIRA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 360,
+			"nr_cnpj": "10596652982",
+			"nm_razao_social": "SILVANIA DO NASCIMENTO",
+			"idCorretora": 30
+		},
+		{
+			"id": 361,
+			"nr_cnpj": "10717451286",
+			"nm_razao_social": "ELAINE BATISTA DE OLIVEIRA",
+			"idCorretora": 14
+		},
+		{
+			"id": 362,
+			"nr_cnpj": "10211256787",
+			"nm_razao_social": "LUCIANA ARAUJO DE MACEDO",
+			"idCorretora": null
+		},
+		{
+			"id": 363,
+			"nr_cnpj": "10315252983",
+			"nm_razao_social": "ALEXANDRA RIBEIRO",
+			"idCorretora": null
+		},
+		{
+			"id": 364,
+			"nr_cnpj": "10840956380",
+			"nm_razao_social": "JAMIESSON ALVIM DE SOUZA",
+			"idCorretora": 64024
+		},
+		{
+			"id": 365,
+			"nr_cnpj": "10541458187",
+			"nm_razao_social": "GRACIELE RODRIGUES DA ROCHA MEDINA",
+			"idCorretora": 64026
+		},
+		{
+			"id": 366,
+			"nr_cnpj": "14169658785",
+			"nm_razao_social": "MARIZIS DE ANDRADE BARROS",
+			"idCorretora": 72040
+		},
+		{
+			"id": 367,
+			"nr_cnpj": "10435956287",
+			"nm_razao_social": "ANA ELISA BARROS DA SILVA",
+			"idCorretora": 4
+		},
+		{
+			"id": 368,
+			"nr_cnpj": "11143050689",
+			"nm_razao_social": "GERCIA WENDLER",
+			"idCorretora": null
+		},
+		{
+			"id": 369,
+			"nr_cnpj": "11301058681",
+			"nm_razao_social": "LARISSA NEVES TORRES",
+			"idCorretora": 64033
+		},
+		{
+			"id": 370,
+			"nr_cnpj": "18911756682",
+			"nm_razao_social": "MARCOS PEREIRA MATOS",
+			"idCorretora": 64024
+		},
+		{
+			"id": 371,
+			"nr_cnpj": "11059751589",
+			"nm_razao_social": "FERNANDA ANDREY CAMPO DALLORTO",
+			"idCorretora": 72063
+		},
+		{
+			"id": 372,
+			"nr_cnpj": "11132450088",
+			"nm_razao_social": "KARINA MILENA SOARES SANTIAGO",
+			"idCorretora": null
+		},
+		{
+			"id": 373,
+			"nr_cnpj": "11081857780",
+			"nm_razao_social": "DIONE CARLOS DOS SANTOS",
+			"idCorretora": 26
+		},
+		{
+			"id": 374,
+			"nr_cnpj": "18909554281",
+			"nm_razao_social": "HUMBERTO JOSE MONTEIRO",
+			"idCorretora": 72021
+		},
+		{
+			"id": 10163,
+			"nr_cnpj": "11384651786",
+			"nm_razao_social": "CONSULTOR GENERICO IMPORTACÃO",
+			"idCorretora": null
+		},
+		{
+			"id": 62163,
+			"nr_cnpj": "13071452485",
+			"nm_razao_social": "DIOGO ALVES",
+			"idCorretora": null
+		},
+		{
+			"id": 62164,
+			"nr_cnpj": "18758553589",
+			"nm_razao_social": "ITAMARA GOMES COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 62165,
+			"nr_cnpj": "13982553380",
+			"nm_razao_social": "LIDIANE ROZENDO DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 62166,
+			"nr_cnpj": "12262353887",
+			"nm_razao_social": "LEANDRO HENRIQUE FOLONI",
+			"idCorretora": null
+		},
+		{
+			"id": 62168,
+			"nr_cnpj": "17078255289",
+			"nm_razao_social": "ROGERIO DOS SANTOS SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 62169,
+			"nr_cnpj": "17863558089",
+			"nm_razao_social": "CONSULTOR GENERICO (P. BARREIROS)",
+			"idCorretora": null
+		},
+		{
+			"id": 62170,
+			"nr_cnpj": "17556751482",
+			"nm_razao_social": "CONSULTOR GENERICO (PORTO NOBRE)",
+			"idCorretora": null
+		},
+		{
+			"id": 64163,
+			"nr_cnpj": "19176253687",
+			"nm_razao_social": "VERA LUCIA DE O. MACHADO",
+			"idCorretora": 28
+		},
+		{
+			"id": 64164,
+			"nr_cnpj": "15573852282",
+			"nm_razao_social": "JUZELDA ROSSONI",
+			"idCorretora": 64026
+		},
+		{
+			"id": 64165,
+			"nr_cnpj": "10169956989",
+			"nm_razao_social": "GILSON NUNES MARTINS",
+			"idCorretora": 5
+		},
+		{
+			"id": 64166,
+			"nr_cnpj": "11166456286",
+			"nm_razao_social": "ELENICE MERCES CAJA DE SOUZA",
+			"idCorretora": null
+		},
+		{
+			"id": 64167,
+			"nr_cnpj": "10154753585",
+			"nm_razao_social": "LUCIELY RAVANI LIBERATO",
+			"idCorretora": null
+		},
+		{
+			"id": 64168,
+			"nr_cnpj": "17267357681",
+			"nm_razao_social": "IVONE RODRIGUES GOMES",
+			"idCorretora": null
+		},
+		{
+			"id": 64169,
+			"nr_cnpj": "10706654381",
+			"nm_razao_social": "PAULA DE MORAES GAMA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 64170,
+			"nr_cnpj": "19718352289",
+			"nm_razao_social": "NELIANE BACELAR DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 64171,
+			"nr_cnpj": "10277454889",
+			"nm_razao_social": "VALMIR PACHECO GOMES FILHO",
+			"idCorretora": null
+		},
+		{
+			"id": 64172,
+			"nr_cnpj": "10809057388",
+			"nm_razao_social": "WELLINGTON VIEIRA LEITE",
+			"idCorretora": null
+		},
+		{
+			"id": 64173,
+			"nr_cnpj": "11197051789",
+			"nm_razao_social": "KARIS ROBERTA RIBONDI RAMALHO LEITE",
+			"idCorretora": 72033
+		},
+		{
+			"id": 64174,
+			"nr_cnpj": "10828659382",
+			"nm_razao_social": "WESCLEY VITOR DE ANDRADE",
+			"idCorretora": null
+		},
+		{
+			"id": 64175,
+			"nr_cnpj": "14751153780",
+			"nm_razao_social": "DELCIO JOSE DOS SANTOS FILHO",
+			"idCorretora": null
+		},
+		{
+			"id": 64176,
+			"nr_cnpj": "10794459382",
+			"nm_razao_social": "EDUARDO AUGUSTO PEREIRA",
+			"idCorretora": 26
+		},
+		{
+			"id": 64177,
+			"nr_cnpj": "15091957982",
+			"nm_razao_social": "KLINGER JUNIOR",
+			"idCorretora": null
+		},
+		{
+			"id": 64178,
+			"nr_cnpj": "13432456381",
+			"nm_razao_social": "JOELSON MARTINS CALDEIRA",
+			"idCorretora": 73087
+		},
+		{
+			"id": 64179,
+			"nr_cnpj": "17816354487",
+			"nm_razao_social": "TANIA MARIA PEREIRA RAMOS",
+			"idCorretora": 27
+		},
+		{
+			"id": 64180,
+			"nr_cnpj": "10840355383",
+			"nm_razao_social": "FERNANDO ARAUJO CESARIO",
+			"idCorretora": null
+		},
+		{
+			"id": 64181,
+			"nr_cnpj": "16480257081",
+			"nm_razao_social": "MARCOS BRUNO CRUZ DA CUNHA",
+			"idCorretora": null
+		},
+		{
+			"id": 64182,
+			"nr_cnpj": "11149251384",
+			"nm_razao_social": "RODRIGO FREITAS FONTANA",
+			"idCorretora": null
+		},
+		{
+			"id": 64183,
+			"nr_cnpj": "10097650783",
+			"nm_razao_social": "GETULIO DE SOUZA NETO",
+			"idCorretora": 72067
+		},
+		{
+			"id": 64184,
+			"nr_cnpj": "10245851988",
+			"nm_razao_social": "GILZA SOARES FERREIRA",
+			"idCorretora": 26
+		},
+		{
+			"id": 64185,
+			"nr_cnpj": "15258952983",
+			"nm_razao_social": "JOZEMAR ROSINDO TORRES",
+			"idCorretora": null
+		},
+		{
+			"id": 64186,
+			"nr_cnpj": "10096751187",
+			"nm_razao_social": "ELIAS PINTO",
+			"idCorretora": 64026
+		},
+		{
+			"id": 64187,
+			"nr_cnpj": "10345855185",
+			"nm_razao_social": "EMERSON DE OLIVEIRA FERNANDES",
+			"idCorretora": 4
+		},
+		{
+			"id": 64188,
+			"nr_cnpj": "14086054188",
+			"nm_razao_social": "HELENA PORTO DE JESUS",
+			"idCorretora": 73197
+		},
+		{
+			"id": 64189,
+			"nr_cnpj": "14518357284",
+			"nm_razao_social": "WALTER TEIXEIRA DUARTE",
+			"idCorretora": 4
+		},
+		{
+			"id": 64190,
+			"nr_cnpj": "10333555382",
+			"nm_razao_social": "JOSE CORREA LIMA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 64191,
+			"nr_cnpj": "10316650282",
+			"nm_razao_social": "DEBORA CRUZ AMORIM GONCALVES",
+			"idCorretora": 64024
+		},
+		{
+			"id": 64192,
+			"nr_cnpj": "10777357383",
+			"nm_razao_social": "ESTER BERGAMIN RIBEIRO DA COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 64193,
+			"nr_cnpj": "10691159188",
+			"nm_razao_social": "REGINALDO COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 64194,
+			"nr_cnpj": "11420354688",
+			"nm_razao_social": "LORENA DE OLIVEIRA MENDES",
+			"idCorretora": null
+		},
+		{
+			"id": 64195,
+			"nr_cnpj": "19533459280",
+			"nm_razao_social": "JAQUELINE DE SOUZA BARBOSA",
+			"idCorretora": null
+		},
+		{
+			"id": 64196,
+			"nr_cnpj": "10098455487",
+			"nm_razao_social": "ANTONIO CARLOS BARRETO JUNIOR",
+			"idCorretora": null
+		},
+		{
+			"id": 64197,
+			"nr_cnpj": "10245252487",
+			"nm_razao_social": "ELIOMAR VIANA",
+			"idCorretora": null
+		},
+		{
+			"id": 64198,
+			"nr_cnpj": "16822152185",
+			"nm_razao_social": "PAULO SERGIO FRANCA CORREA",
+			"idCorretora": 73194
+		},
+		{
+			"id": 64199,
+			"nr_cnpj": "11119853785",
+			"nm_razao_social": "ANDRE LUIZ PEREIRA COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 64200,
+			"nr_cnpj": "10996854987",
+			"nm_razao_social": "MARIO JORGE CORREA DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 64201,
+			"nr_cnpj": "10079356283",
+			"nm_razao_social": "ADRIANA DE CARVALHO FIGUEIREDO",
+			"idCorretora": null
+		},
+		{
+			"id": 64202,
+			"nr_cnpj": "11145551086",
+			"nm_razao_social": "DAIANE DE JESUS SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 64203,
+			"nr_cnpj": "17985357980",
+			"nm_razao_social": "TANIA MARA LEONCIO",
+			"idCorretora": null
+		},
+		{
+			"id": 64204,
+			"nr_cnpj": "10097350983",
+			"nm_razao_social": "ENEAS DOS SANTOS BARBOSA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 64205,
+			"nr_cnpj": "18915659483",
+			"nm_razao_social": "ROSEMAR GOMES VIANA MILOSKY",
+			"idCorretora": null
+		},
+		{
+			"id": 64206,
+			"nr_cnpj": "19568652185",
+			"nm_razao_social": "SIMONE CASTILHO RABELO",
+			"idCorretora": null
+		},
+		{
+			"id": 64207,
+			"nr_cnpj": "16213359482",
+			"nm_razao_social": "ANA MARIA MOURA OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64208,
+			"nr_cnpj": "10713651486",
+			"nm_razao_social": "RAQUEL DA SILVA RAMOS FERREIRA",
+			"idCorretora": 28
+		},
+		{
+			"id": 64209,
+			"nr_cnpj": "10881950883",
+			"nm_razao_social": "KELLY VICENTE VIEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64210,
+			"nr_cnpj": "10723755385",
+			"nm_razao_social": "VICENTE DELAI JUNIOR",
+			"idCorretora": null
+		},
+		{
+			"id": 64211,
+			"nr_cnpj": "10346059488",
+			"nm_razao_social": "DENISSON MARCIO ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 64212,
+			"nr_cnpj": "10862452483",
+			"nm_razao_social": "CARPEGYANE SANTOS SILVA",
+			"idCorretora": 64026
+		},
+		{
+			"id": 64213,
+			"nr_cnpj": "11697653381",
+			"nm_razao_social": "ALESSANDRO FERREIRA",
+			"idCorretora": 11
+		},
+		{
+			"id": 64214,
+			"nr_cnpj": "15793957380",
+			"nm_razao_social": "VANILDO ANTONIO FERREIRA DA CONCEICAO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 64215,
+			"nr_cnpj": "11011451682",
+			"nm_razao_social": "SARA MARTINS SIQUEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64216,
+			"nr_cnpj": "19621652683",
+			"nm_razao_social": "ANTONIO AUGUSTO MENEZES COSTA",
+			"idCorretora": 26
+		},
+		{
+			"id": 64217,
+			"nr_cnpj": "13837756785",
+			"nm_razao_social": "JOSIMAR DIAS DE RESENDE",
+			"idCorretora": null
+		},
+		{
+			"id": 64218,
+			"nr_cnpj": "17642854680",
+			"nm_razao_social": "MARIANE DE ALMEIDA BIANCARD",
+			"idCorretora": 7
+		},
+		{
+			"id": 64219,
+			"nr_cnpj": "10032856189",
+			"nm_razao_social": "ROSIANE CONCEICÃO MACHADO PIMENTEL",
+			"idCorretora": null
+		},
+		{
+			"id": 64220,
+			"nr_cnpj": "10850051084",
+			"nm_razao_social": "RONDINELI PIANA COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 64221,
+			"nr_cnpj": "13797253883",
+			"nm_razao_social": "BENEDITO DE ASSIS BRANDAO",
+			"idCorretora": 26
+		},
+		{
+			"id": 64222,
+			"nr_cnpj": "18911851280",
+			"nm_razao_social": "SAULO DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 64223,
+			"nr_cnpj": "15766259088",
+			"nm_razao_social": "LUCIO BALBI",
+			"idCorretora": null
+		},
+		{
+			"id": 64224,
+			"nr_cnpj": "11352156889",
+			"nm_razao_social": "JULIANA APARECIDA DALBEM",
+			"idCorretora": null
+		},
+		{
+			"id": 64225,
+			"nr_cnpj": "11521451786",
+			"nm_razao_social": "GLAYDS MENDONCA GOES SGULMARO",
+			"idCorretora": null
+		},
+		{
+			"id": 64226,
+			"nr_cnpj": "19894758787",
+			"nm_razao_social": "MARCO ANTONIO BORGES FURTADO",
+			"idCorretora": 64026
+		},
+		{
+			"id": 64227,
+			"nr_cnpj": "10081059985",
+			"nm_razao_social": "EVANDRO GONCALVES FERREIRA",
+			"idCorretora": 72063
+		},
+		{
+			"id": 64228,
+			"nr_cnpj": "10052352389",
+			"nm_razao_social": "MARIA APARECIDA NOBRE BAPTISTA",
+			"idCorretora": 72033
+		},
+		{
+			"id": 64229,
+			"nr_cnpj": "10861952388",
+			"nm_razao_social": "JOAO PAULO BARRETO NEPOMUCENO",
+			"idCorretora": 25
+		},
+		{
+			"id": 64230,
+			"nr_cnpj": "11917557484",
+			"nm_razao_social": "JOSE SIMPLICIO",
+			"idCorretora": null
+		},
+		{
+			"id": 64231,
+			"nr_cnpj": "10622254089",
+			"nm_razao_social": "TIAGO DA SILVA LOURENCO",
+			"idCorretora": null
+		},
+		{
+			"id": 64232,
+			"nr_cnpj": "10098159488",
+			"nm_razao_social": "GEISA BASTOS RAMOS",
+			"idCorretora": null
+		},
+		{
+			"id": 64233,
+			"nr_cnpj": "15263552081",
+			"nm_razao_social": "MARIA ALVES BELO",
+			"idCorretora": null
+		},
+		{
+			"id": 64234,
+			"nr_cnpj": "10922551483",
+			"nm_razao_social": "GISELE DE MOURA PUCK",
+			"idCorretora": null
+		},
+		{
+			"id": 64235,
+			"nr_cnpj": "15751455188",
+			"nm_razao_social": "DEUZENI SILVA DE SOUZA",
+			"idCorretora": 27
+		},
+		{
+			"id": 64236,
+			"nr_cnpj": "15599852186",
+			"nm_razao_social": "MARIA APARECIDA HERZOG ALBANEZ",
+			"idCorretora": null
+		},
+		{
+			"id": 64237,
+			"nr_cnpj": "13613150088",
+			"nm_razao_social": "ANTONIA DAS CHAGAS PINTO ALMEIDA",
+			"idCorretora": null
+		},
+		{
+			"id": 64238,
+			"nr_cnpj": "10228152487",
+			"nm_razao_social": "ADENILTON JUSTINO BARBOZA",
+			"idCorretora": null
+		},
+		{
+			"id": 64239,
+			"nr_cnpj": "16598953982",
+			"nm_razao_social": "LEIDJANE PEREIRA CORDOVILHE",
+			"idCorretora": null
+		},
+		{
+			"id": 64240,
+			"nr_cnpj": "10760556983",
+			"nm_razao_social": "LEIDIMAR DE SOUZA",
+			"idCorretora": 26
+		},
+		{
+			"id": 64241,
+			"nr_cnpj": "10749655089",
+			"nm_razao_social": "CLEZIA SOUZA OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64242,
+			"nr_cnpj": "16872256085",
+			"nm_razao_social": "PAULO ROBERTO CASTRO",
+			"idCorretora": 26
+		},
+		{
+			"id": 64243,
+			"nr_cnpj": "12560859981",
+			"nm_razao_social": "ADILSON PEDRO DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64244,
+			"nr_cnpj": "10081058284",
+			"nm_razao_social": "ANGELA MARIA DOS ANJOS OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64245,
+			"nr_cnpj": "10787556586",
+			"nm_razao_social": "ERIVAN OLIVEIRA BORGES",
+			"idCorretora": 64026
+		},
+		{
+			"id": 64246,
+			"nr_cnpj": "10318451881",
+			"nm_razao_social": "FABIO ANDREI SCALFONE",
+			"idCorretora": null
+		},
+		{
+			"id": 64247,
+			"nr_cnpj": "10993658787",
+			"nm_razao_social": "MAYCON OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64248,
+			"nr_cnpj": "11012956984",
+			"nm_razao_social": "ENOQUE MATHIAS",
+			"idCorretora": 31
+		},
+		{
+			"id": 64249,
+			"nr_cnpj": "17982154085",
+			"nm_razao_social": "EDSON COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 64250,
+			"nr_cnpj": "10771059282",
+			"nm_razao_social": "MARISTELA TREVIZANI",
+			"idCorretora": null
+		},
+		{
+			"id": 64251,
+			"nr_cnpj": "16817952984",
+			"nm_razao_social": "LUCIO FELIPPE",
+			"idCorretora": 4
+		},
+		{
+			"id": 64252,
+			"nr_cnpj": "11212952982",
+			"nm_razao_social": "RAIANE LOURENCO MATOS MOREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64253,
+			"nr_cnpj": "13797757187",
+			"nm_razao_social": "IVONE LEAL",
+			"idCorretora": 31
+		},
+		{
+			"id": 64254,
+			"nr_cnpj": "15816250388",
+			"nm_razao_social": "JOSUE OLIVEIRA DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 64255,
+			"nr_cnpj": "16565551982",
+			"nm_razao_social": "LUCIMAR CAITANO JUNIOR",
+			"idCorretora": 72021
+		},
+		{
+			"id": 64256,
+			"nr_cnpj": "10080459583",
+			"nm_razao_social": "LUIZ DE OLIVEIRA REIS JUNIOR",
+			"idCorretora": null
+		},
+		{
+			"id": 64257,
+			"nr_cnpj": "11536054586",
+			"nm_razao_social": "LUIZ OTAVIO CALADO DO SACRAMENTO SANTOS",
+			"idCorretora": 64033
+		},
+		{
+			"id": 64258,
+			"nr_cnpj": "11380454484",
+			"nm_razao_social": "SUELEN RIBEIRO DELAZARI",
+			"idCorretora": 72033
+		},
+		{
+			"id": 64259,
+			"nr_cnpj": "11085353089",
+			"nm_razao_social": "ANA PAULA MAGRI ALVES",
+			"idCorretora": 64033
+		},
+		{
+			"id": 64260,
+			"nr_cnpj": "10008753088",
+			"nm_razao_social": "SERGIO MARCOS VIEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 64261,
+			"nr_cnpj": "11300255389",
+			"nm_razao_social": "ANA PAULA DE LIMA BATISTA",
+			"idCorretora": null
+		},
+		{
+			"id": 64262,
+			"nr_cnpj": "10548658280",
+			"nm_razao_social": "MARCOS FILIPE DE SOUZA",
+			"idCorretora": null
+		},
+		{
+			"id": 64263,
+			"nr_cnpj": "10077658580",
+			"nm_razao_social": "ARIDEIA COSTA RODRIGUES",
+			"idCorretora": null
+		},
+		{
+			"id": 64264,
+			"nr_cnpj": "10308350481",
+			"nm_razao_social": "LUZINEIDE CALIMAN",
+			"idCorretora": null
+		},
+		{
+			"id": 64265,
+			"nr_cnpj": "16161259887",
+			"nm_razao_social": "JAEMIR ANTONIO PEDRONI",
+			"idCorretora": null
+		},
+		{
+			"id": 64266,
+			"nr_cnpj": "16959450588",
+			"nm_razao_social": "PALMIRA BARROZO PEDRONI",
+			"idCorretora": null
+		},
+		{
+			"id": 64267,
+			"nr_cnpj": "10941158082",
+			"nm_razao_social": "MARCILIO MARTINS SOARES VAZ TORRES",
+			"idCorretora": 64033
+		},
+		{
+			"id": 64268,
+			"nr_cnpj": "10984355689",
+			"nm_razao_social": "DANIEL BARROZO PEDRONI",
+			"idCorretora": null
+		},
+		{
+			"id": 64269,
+			"nr_cnpj": "11299352184",
+			"nm_razao_social": "THIAGO RIBEIRO DOS SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 64270,
+			"nr_cnpj": "10789658287",
+			"nm_razao_social": "LUCIANO FERREIRA SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 64271,
+			"nr_cnpj": "11069056182",
+			"nm_razao_social": "GUILHERME BRITO SANTOS",
+			"idCorretora": 73113
+		},
+		{
+			"id": 64272,
+			"nr_cnpj": "15131651986",
+			"nm_razao_social": "LEONEL PAULO TOFFOLO",
+			"idCorretora": null
+		},
+		{
+			"id": 64273,
+			"nr_cnpj": "10956757987",
+			"nm_razao_social": "MONIKA AGUIAR TURIBIO",
+			"idCorretora": null
+		},
+		{
+			"id": 64274,
+			"nr_cnpj": "11074352386",
+			"nm_razao_social": "FERNANDO MESSIAS DAS NEVES",
+			"idCorretora": null
+		},
+		{
+			"id": 64275,
+			"nr_cnpj": "10080459484",
+			"nm_razao_social": "MARIA DA PENHA MASSARIOLI",
+			"idCorretora": null
+		},
+		{
+			"id": 64276,
+			"nr_cnpj": "10988054188",
+			"nm_razao_social": "MARCELLI FONSECA PEDRO",
+			"idCorretora": null
+		},
+		{
+			"id": 64277,
+			"nr_cnpj": "15773850481",
+			"nm_razao_social": "DAVID SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 64278,
+			"nr_cnpj": "10849552481",
+			"nm_razao_social": "FABIO MENDES SPAGNOL",
+			"idCorretora": 73197
+		},
+		{
+			"id": 64279,
+			"nr_cnpj": "11195352988",
+			"nm_razao_social": "VICTOR HENRIQUE CEOLIN AURORA",
+			"idCorretora": null
+		},
+		{
+			"id": 64280,
+			"nr_cnpj": "10228559781",
+			"nm_razao_social": "DAMIÃO SALA PINTO",
+			"idCorretora": 73087
+		},
+		{
+			"id": 64281,
+			"nr_cnpj": "10772156883",
+			"nm_razao_social": "GRAZIELA DE OLIVEIRA GUIMARAES",
+			"idCorretora": 72021
+		},
+		{
+			"id": 64282,
+			"nr_cnpj": "10373952385",
+			"nm_razao_social": "LUCILENE SILVA FERRAZ",
+			"idCorretora": 64036
+		},
+		{
+			"id": 64283,
+			"nr_cnpj": "10079253787",
+			"nm_razao_social": "MARLENE DA CRUZ FERRAZ",
+			"idCorretora": 26
+		},
+		{
+			"id": 64284,
+			"nr_cnpj": "11128254885",
+			"nm_razao_social": "MONIK SANTOS PEREIRA",
+			"idCorretora": 38
+		},
+		{
+			"id": 64285,
+			"nr_cnpj": "10539156185",
+			"nm_razao_social": "ANTONIO CARLOS APRIGIO",
+			"idCorretora": null
+		},
+		{
+			"id": 64286,
+			"nr_cnpj": "10852754289",
+			"nm_razao_social": "KARINA DE OLIVEIRA TINOCO FERNANDES",
+			"idCorretora": 72021
+		},
+		{
+			"id": 64287,
+			"nr_cnpj": "10980752582",
+			"nm_razao_social": "ERICA BETZEL PASSOS",
+			"idCorretora": 25
+		},
+		{
+			"id": 64288,
+			"nr_cnpj": "13599556986",
+			"nm_razao_social": "LUIZ ANTONIO MATTOS MEDINA",
+			"idCorretora": 73305
+		},
+		{
+			"id": 64289,
+			"nr_cnpj": "11351857981",
+			"nm_razao_social": "ARTHUR FRANKLIN FIALHO RODRIGUES",
+			"idCorretora": 73197
+		},
+		{
+			"id": 64290,
+			"nr_cnpj": "11052455482",
+			"nm_razao_social": "ADELCIO RODRIGUES DA FONSECA",
+			"idCorretora": null
+		},
+		{
+			"id": 64291,
+			"nr_cnpj": "10946455386",
+			"nm_razao_social": "PRISCILA RODRIGUES DE SOUZA",
+			"idCorretora": 73115
+		},
+		{
+			"id": 64292,
+			"nr_cnpj": "11187354183",
+			"nm_razao_social": "ANDREIA DA SILVA MEIRELES",
+			"idCorretora": null
+		},
+		{
+			"id": 64293,
+			"nr_cnpj": "17317050987",
+			"nm_razao_social": "MARA CRISTINA MEDICI TOSCANO",
+			"idCorretora": 72021
+		},
+		{
+			"id": 72163,
+			"nr_cnpj": "10921157587",
+			"nm_razao_social": "SYLVIA OLIVEIRA GABARRON MENEZES",
+			"idCorretora": 72021
+		},
+		{
+			"id": 72164,
+			"nr_cnpj": "10199452682",
+			"nm_razao_social": "SOELANDE DA SILVA FERREIRA SOUZA",
+			"idCorretora": 64024
+		},
+		{
+			"id": 72165,
+			"nr_cnpj": "10097058881",
+			"nm_razao_social": "MARCO ANTONIO ROSA DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 72166,
+			"nr_cnpj": "19459351480",
+			"nm_razao_social": "JURANDIR PRATES DE SOUZA",
+			"idCorretora": null
+		},
+		{
+			"id": 72167,
+			"nr_cnpj": "15147659981",
+			"nm_razao_social": "DIANARY CHAVES  NASCIMENTO",
+			"idCorretora": null
+		},
+		{
+			"id": 72168,
+			"nr_cnpj": "17424754580",
+			"nm_razao_social": "ROSA HELENA CRIVELARI DUARTE",
+			"idCorretora": 72021
+		},
+		{
+			"id": 72169,
+			"nr_cnpj": "10098450187",
+			"nm_razao_social": "SAULO VON RONDON DE ALMEIDA",
+			"idCorretora": null
+		},
+		{
+			"id": 72170,
+			"nr_cnpj": "11405852686",
+			"nm_razao_social": "JOAO PEDRO D?AVILA CHARPINEL",
+			"idCorretora": null
+		},
+		{
+			"id": 72171,
+			"nr_cnpj": "11308555987",
+			"nm_razao_social": "VANDERLEA SIMOES DE MOR",
+			"idCorretora": null
+		},
+		{
+			"id": 72172,
+			"nr_cnpj": "10698759083",
+			"nm_razao_social": "ANDRE SILVA RIBEIRO",
+			"idCorretora": 26
+		},
+		{
+			"id": 72173,
+			"nr_cnpj": "14858057687",
+			"nm_razao_social": "SANDOVAL FRANCISCO PRATES",
+			"idCorretora": 26
+		},
+		{
+			"id": 72174,
+			"nr_cnpj": "11094856989",
+			"nm_razao_social": "LORENA GARIOLI CHARPINEL",
+			"idCorretora": null
+		},
+		{
+			"id": 72175,
+			"nr_cnpj": "16655954989",
+			"nm_razao_social": "TANIA RAMOS DE OLIVEIRA",
+			"idCorretora": 26
+		},
+		{
+			"id": 72176,
+			"nr_cnpj": "17424453180",
+			"nm_razao_social": "JOCIMAR ALVES DE OLIVEIRA",
+			"idCorretora": 64033
+		},
+		{
+			"id": 72177,
+			"nr_cnpj": "15957352081",
+			"nm_razao_social": "LUIZ LUNARDI FILHO",
+			"idCorretora": 26
+		},
+		{
+			"id": 74163,
+			"nr_cnpj": "11815058684",
+			"nm_razao_social": "SAMUEL ROGERIO DOS SANTOS PRESTES",
+			"idCorretora": 73086
+		},
+		{
+			"id": 74164,
+			"nr_cnpj": "11229153989",
+			"nm_razao_social": "HAYLANE VIANA NOVAIS",
+			"idCorretora": 64036
+		},
+		{
+			"id": 74165,
+			"nr_cnpj": "11058554188",
+			"nm_razao_social": "ANDERSON MAGRI SOUZA",
+			"idCorretora": 73197
+		},
+		{
+			"id": 74166,
+			"nr_cnpj": "16653456882",
+			"nm_razao_social": "EDUARDO LANZA ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 74167,
+			"nr_cnpj": "18184252288",
+			"nm_razao_social": "FRANCISCO DE ASSIS PEREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 74168,
+			"nr_cnpj": "10095955581",
+			"nm_razao_social": "NERCINO ARAUJO FILHO",
+			"idCorretora": null
+		},
+		{
+			"id": 74169,
+			"nr_cnpj": "19841255480",
+			"nm_razao_social": "ROBSON JOSE MONTE",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74170,
+			"nr_cnpj": "10691952888",
+			"nm_razao_social": "SILVANA MAGNAGO",
+			"idCorretora": null
+		},
+		{
+			"id": 74171,
+			"nr_cnpj": "15575455280",
+			"nm_razao_social": "ARTUR EUCLYDES DE ALMEIDA NETO",
+			"idCorretora": 64026
+		},
+		{
+			"id": 74172,
+			"nr_cnpj": "17427554180",
+			"nm_razao_social": "ESTER SIBIEN SA REGO VIEIRA",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74173,
+			"nr_cnpj": "10784751789",
+			"nm_razao_social": "EDNEIA MARQUES ROSA",
+			"idCorretora": 5
+		},
+		{
+			"id": 74174,
+			"nr_cnpj": "10564954288",
+			"nm_razao_social": "MARLON AVELINO BRAGA",
+			"idCorretora": null
+		},
+		{
+			"id": 74175,
+			"nr_cnpj": "17008656085",
+			"nm_razao_social": "THAGUA DE OLIVEIRA",
+			"idCorretora": 25
+		},
+		{
+			"id": 74176,
+			"nr_cnpj": "10949254181",
+			"nm_razao_social": "ANABELLE GIESEN MARTINS DA CONCEICAO",
+			"idCorretora": 64026
+		},
+		{
+			"id": 74177,
+			"nr_cnpj": "10093550083",
+			"nm_razao_social": "RENATA DA SILVA KOEFFLER",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74178,
+			"nr_cnpj": "18176555786",
+			"nm_razao_social": "ANTONIO LUIZ DE ALMEIDA REIS",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74179,
+			"nr_cnpj": "11030652888",
+			"nm_razao_social": "CRISTIANE SILVA DO NASCIMENTO",
+			"idCorretora": null
+		},
+		{
+			"id": 74180,
+			"nr_cnpj": "10734356186",
+			"nm_razao_social": "FABRICIO AGUIAR CARVALHO",
+			"idCorretora": 73225
+		},
+		{
+			"id": 74181,
+			"nr_cnpj": "10736158883",
+			"nm_razao_social": "KEDMA LIMA BARBOSA",
+			"idCorretora": 30
+		},
+		{
+			"id": 74182,
+			"nr_cnpj": "10154659787",
+			"nm_razao_social": "SAULO DA SILVA SIQUEIRA",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74183,
+			"nr_cnpj": "11259959781",
+			"nm_razao_social": "DANIELLE SANTOS GOMES",
+			"idCorretora": null
+		},
+		{
+			"id": 74184,
+			"nr_cnpj": "14932650185",
+			"nm_razao_social": "ALDENI DUARTE DOMINGUES",
+			"idCorretora": null
+		},
+		{
+			"id": 74185,
+			"nr_cnpj": "11082250389",
+			"nm_razao_social": "ALUIZIO RODRIGUES BARCELLOS FILHO",
+			"idCorretora": 73087
+		},
+		{
+			"id": 74186,
+			"nr_cnpj": "10777250588",
+			"nm_razao_social": "NANCY MARROCHI",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74187,
+			"nr_cnpj": "10029355989",
+			"nm_razao_social": "RONI LINO RIBEIRO",
+			"idCorretora": 28
+		},
+		{
+			"id": 74188,
+			"nr_cnpj": "15067856084",
+			"nm_razao_social": "PAULO DE TARSO TADEU MAMEDE SILVA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74189,
+			"nr_cnpj": "17530850387",
+			"nm_razao_social": "GILBER LUIZ PRETTI",
+			"idCorretora": null
+		},
+		{
+			"id": 74190,
+			"nr_cnpj": "10169050280",
+			"nm_razao_social": "ALEXANDRA BRAGA ANTOLINI",
+			"idCorretora": 4
+		},
+		{
+			"id": 74191,
+			"nr_cnpj": "16243857080",
+			"nm_razao_social": "THYANA CLAUDIA SANTOS DE OLIVEIRA ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 74192,
+			"nr_cnpj": "19280157980",
+			"nm_razao_social": "ALONE SILVA MARTINS DEL BORTOLO",
+			"idCorretora": null
+		},
+		{
+			"id": 74193,
+			"nr_cnpj": "10761251387",
+			"nm_razao_social": "AUREA LEONORA LIMA MEIRELES",
+			"idCorretora": 64026
+		},
+		{
+			"id": 74194,
+			"nr_cnpj": "12681855789",
+			"nm_razao_social": "NUBIA SOUZA AZEVEDO",
+			"idCorretora": null
+		},
+		{
+			"id": 74195,
+			"nr_cnpj": "10202455888",
+			"nm_razao_social": "ANTONIO MARCOS SILVA",
+			"idCorretora": 64024
+		},
+		{
+			"id": 74196,
+			"nr_cnpj": "18182751684",
+			"nm_razao_social": "ELIZABETH TEIXEIRA BRUM",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74197,
+			"nr_cnpj": "10951451383",
+			"nm_razao_social": "ELANE NOVAIS",
+			"idCorretora": 32
+		},
+		{
+			"id": 74198,
+			"nr_cnpj": "11056453586",
+			"nm_razao_social": "LIVIA COFRE CALIARI",
+			"idCorretora": 32
+		},
+		{
+			"id": 74199,
+			"nr_cnpj": "11027258082",
+			"nm_razao_social": "THIAGO SOUZA REIS",
+			"idCorretora": 64024
+		},
+		{
+			"id": 74200,
+			"nr_cnpj": "18457955484",
+			"nm_razao_social": "ROSANGELA MARIA SOARES GUEDES",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74201,
+			"nr_cnpj": "10690159486",
+			"nm_razao_social": "GILBERTO DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 74202,
+			"nr_cnpj": "10079350286",
+			"nm_razao_social": "RONALDO MARTINS DA SILVA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74203,
+			"nr_cnpj": "11327751180",
+			"nm_razao_social": "MARIANA BARROS PENHA",
+			"idCorretora": 72023
+		},
+		{
+			"id": 74204,
+			"nr_cnpj": "16746254085",
+			"nm_razao_social": "NAPOLEAO GONCALVES P FILO",
+			"idCorretora": 72023
+		},
+		{
+			"id": 74205,
+			"nr_cnpj": "11887451583",
+			"nm_razao_social": "ANGELO MARCIO DE AMORIM SEGATTO",
+			"idCorretora": 73087
+		},
+		{
+			"id": 74206,
+			"nr_cnpj": "11382852182",
+			"nm_razao_social": "EMANUELLA LOPES",
+			"idCorretora": null
+		},
+		{
+			"id": 74207,
+			"nr_cnpj": "10577758186",
+			"nm_razao_social": "WALACE LEMOS DA SILVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 74208,
+			"nr_cnpj": "11146057181",
+			"nm_razao_social": "MARIELE GONCALVES SARDINHA",
+			"idCorretora": 11
+		},
+		{
+			"id": 74209,
+			"nr_cnpj": "11356857585",
+			"nm_razao_social": "BRUNA DA SILVA FERNANDES",
+			"idCorretora": 4
+		},
+		{
+			"id": 74210,
+			"nr_cnpj": "16974559984",
+			"nm_razao_social": "CESAR CORREA",
+			"idCorretora": 64024
+		},
+		{
+			"id": 74211,
+			"nr_cnpj": "11021558782",
+			"nm_razao_social": "IZABELA DEZAN BARBOZA COUTO",
+			"idCorretora": 64029
+		},
+		{
+			"id": 74212,
+			"nr_cnpj": "16821851982",
+			"nm_razao_social": "JORMINDA AZEREDO DA SILVA",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74213,
+			"nr_cnpj": "19856352181",
+			"nm_razao_social": "SERGIO AUSENDINO DA CONCEICAO",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74214,
+			"nr_cnpj": "13328352684",
+			"nm_razao_social": "CONSULTOR INTERNO SAO BERNARDO",
+			"idCorretora": null
+		},
+		{
+			"id": 74215,
+			"nr_cnpj": "10836654285",
+			"nm_razao_social": "MARYHELLE DA ROCHA TENORIO CORREIA",
+			"idCorretora": null
+		},
+		{
+			"id": 74216,
+			"nr_cnpj": "10170553887",
+			"nm_razao_social": "WENDER SANCHO DOS SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 74217,
+			"nr_cnpj": "10097051687",
+			"nm_razao_social": "FRANCISCO DE ASSIS",
+			"idCorretora": 30
+		},
+		{
+			"id": 74218,
+			"nr_cnpj": "10247050784",
+			"nm_razao_social": "NEIDILENE LOPES MACHADO",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74219,
+			"nr_cnpj": "14596551387",
+			"nm_razao_social": "CARLOS ALBERTO MOREIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 74220,
+			"nr_cnpj": "17421457380",
+			"nm_razao_social": "SOLEMAR SARMENTO",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74221,
+			"nr_cnpj": "15591954880",
+			"nm_razao_social": "TEOVANI CANDIDO ELIAS",
+			"idCorretora": null
+		},
+		{
+			"id": 74222,
+			"nr_cnpj": "17207152685",
+			"nm_razao_social": "MARIA VALNIRA CARNEIRO FELIX SCARCELLI BRAGA",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74223,
+			"nr_cnpj": "19310959889",
+			"nm_razao_social": "ROSILENE FERRACO",
+			"idCorretora": null
+		},
+		{
+			"id": 74224,
+			"nr_cnpj": "10097759488",
+			"nm_razao_social": "WASHINGTON VIEIRA RODRIGUES",
+			"idCorretora": 26
+		},
+		{
+			"id": 74225,
+			"nr_cnpj": "17693258188",
+			"nm_razao_social": "REGINALDO MARQUES ROCHA",
+			"idCorretora": null
+		},
+		{
+			"id": 74226,
+			"nr_cnpj": "19184158789",
+			"nm_razao_social": "NILZA MARIA DE JESUS",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74227,
+			"nr_cnpj": "10816956889",
+			"nm_razao_social": "WILDER ALDO FONTES SIQUEIRA",
+			"idCorretora": 73349
+		},
+		{
+			"id": 74228,
+			"nr_cnpj": "10801157487",
+			"nm_razao_social": "ANDERSON BASTOS RODRIGUES",
+			"idCorretora": null
+		},
+		{
+			"id": 74229,
+			"nr_cnpj": "10888655281",
+			"nm_razao_social": "SAVIO GONCALVES DE SOUZA",
+			"idCorretora": 5
+		},
+		{
+			"id": 74230,
+			"nr_cnpj": "12711256387",
+			"nm_razao_social": "CLEBERSON EDUARDO MOREIRA DE OLIVEIRA",
+			"idCorretora": null
+		},
+		{
+			"id": 74231,
+			"nr_cnpj": "19417157080",
+			"nm_razao_social": "LUZIMAR BASTOS RODRIGUES",
+			"idCorretora": null
+		},
+		{
+			"id": 74232,
+			"nr_cnpj": "10054755180",
+			"nm_razao_social": "JEAN CARLOS GODINHO",
+			"idCorretora": 72024
+		},
+		{
+			"id": 74233,
+			"nr_cnpj": "15483154686",
+			"nm_razao_social": "ROSANGELA ALVES DE OLIVEIRA",
+			"idCorretora": 72024
+		},
+		{
+			"id": 74234,
+			"nr_cnpj": "19889855882",
+			"nm_razao_social": "RICARDO PAIXAO LYRA",
+			"idCorretora": null
+		},
+		{
+			"id": 74235,
+			"nr_cnpj": "10797054387",
+			"nm_razao_social": "MARUZA GOMES BORGES",
+			"idCorretora": null
+		},
+		{
+			"id": 74236,
+			"nr_cnpj": "17512052284",
+			"nm_razao_social": "NILDSON LEAL PINHEIRO",
+			"idCorretora": null
+		},
+		{
+			"id": 74237,
+			"nr_cnpj": "10079753983",
+			"nm_razao_social": "FRANCISCO DE ASSIS COELHO",
+			"idCorretora": 72024
+		},
+		{
+			"id": 74238,
+			"nr_cnpj": "10246157289",
+			"nm_razao_social": "MARCELO ALEXANDRE DE SOUZA SANTOS",
+			"idCorretora": null
+		},
+		{
+			"id": 74239,
+			"nr_cnpj": "10228152889",
+			"nm_razao_social": "MARCELO DA COSTA",
+			"idCorretora": null
+		},
+		{
+			"id": 74240,
+			"nr_cnpj": "10169756282",
+			"nm_razao_social": "PIERRE SILVA CALMOM",
+			"idCorretora": null
+		},
+		{
+			"id": 74241,
+			"nr_cnpj": "11381350080",
+			"nm_razao_social": "SAMENA SHAMMA SERQUEIRA",
+			"idCorretora": 72033
+		},
+		{
+			"id": 74242,
+			"nr_cnpj": "19977256683",
+			"nm_razao_social": "SAUDEMIA DA PENHA DA HORA NASCIMENTO",
+			"idCorretora": 72021
+		},
+		{
+			"id": 74243,
+			"nr_cnpj": "10876254582",
+			"nm_razao_social": "JANEMEIRE REIS SANTA ROSA",
+			"idCorretora": null
+		},
+		{
+			"id": 74244,
+			"nr_cnpj": "10436455484",
+			"nm_razao_social": "JORDELIO ALBINO DOS SANTOS",
+			"idCorretora": 38
+		},
+		{
+			"id": 74245,
+			"nr_cnpj": "16195155680",
+			"nm_razao_social": "JEREMIAS CORDEIRO MIRANDA",
+			"idCorretora": 38
+		},
+		{
+			"id": 74246,
+			"nr_cnpj": "10318053480",
+			"nm_razao_social": "JEANNE CRISTINA",
+			"idCorretora": 64024
+		},
+		{
+			"id": 74247,
+			"nr_cnpj": "10244959786",
+			"nm_razao_social": "CLAUDECIR NEGRELLI",
+			"idCorretora": 10
+		},
+		{
+			"id": 74248,
+			"nr_cnpj": "10765350888",
+			"nm_razao_social": "GILBERSON RIBEIRO DA SILVA",
+			"idCorretora": 64026
+		},
+		{
+			"id": 74249,
+			"nr_cnpj": "10688957786",
+			"nm_razao_social": "RENATO RAFAEL DA SILVA SANTOS",
+			"idCorretora": 25
+		},
+		{
+			"id": 74250,
+			"nr_cnpj": "10949354086",
+			"nm_razao_social": "EDVALDO NOGUEIRA",
+			"idCorretora": 25
+		},
+		{
+			"id": 74251,
+			"nr_cnpj": "11004453983",
+			"nm_razao_social": "THALITA ARAUJO OLIVEIRA PAIVA",
+			"idCorretora": null
+		},
+		{
+			"id": 74252,
+			"nr_cnpj": "10127657981",
+			"nm_razao_social": "EDVALDO AMORIM DE ANDRADE",
+			"idCorretora": null
+		},
+		{
+			"id": 74253,
+			"nr_cnpj": "10542457682",
+			"nm_razao_social": "MARCELA MIRANDA BELLOTI DE ANDRADE",
+			"idCorretora": null
+		},
+		{
+			"id": 74254,
+			"nr_cnpj": "11269850688",
+			"nm_razao_social": "EDUARDO FRANCISCO PEREIRA NETO",
+			"idCorretora": 72026
+		},
+		{
+			"id": 74255,
+			"nr_cnpj": "10436752388",
+			"nm_razao_social": "ENIR PARIZ SOUZA",
+			"idCorretora": 32
+		},
+		{
+			"id": 74256,
+			"nr_cnpj": "17974658681",
+			"nm_razao_social": "PAULO SERGIO DA SILVA",
+			"idCorretora": 4
+		},
+		{
+			"id": 74257,
+			"nr_cnpj": "15602559585",
+			"nm_razao_social": "EDUARDO MOTTA GARCIA DUARTE",
+			"idCorretora": 72037
+		},
+		{
+			"id": 74258,
+			"nr_cnpj": "10095958281",
+			"nm_razao_social": "CLEBER DA PENHA MACHADO",
+			"idCorretora": 26
+		},
+		{
+			"id": 74259,
+			"nr_cnpj": "10755852383",
+			"nm_razao_social": "ALBA REGINA RONCETTI",
+			"idCorretora": null
+		},
+		{
+			"id": 74260,
+			"nr_cnpj": "10744558584",
+			"nm_razao_social": "ANA PAULA BATISTA DA SILVA",
+			"idCorretora": null
+		},
+		{
+			"id": 74261,
+			"nr_cnpj": "17984057180",
+			"nm_razao_social": "PEDRO PAULO GALVAO",
+			"idCorretora": null
+		}
+	]
+}
