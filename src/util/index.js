@@ -11,7 +11,6 @@ exports.reducerArrayInParts = (itens, maximo) => {
 
 exports.processAndSendMessage = async (itens) => {
   const lots = this.reducerArrayInParts(itens, process.env.SQS_BATCHSIZE);
-  console.log(process.env.QUEUE)
   const promises = lots.map((lot) => this.sendMessage(process.env.QUEUE, lot));
   await Promise.all(promises);
 };
@@ -27,7 +26,7 @@ exports.sendMessage = (queue, data) => {
 
 exports.logger = async (props) => {
   const now = new Date();
-  const { startDate, client, body, response, context } = props;
+  const { startDate, identity, request, response, context } = props;
   const ddb = new AWS.DynamoDB({ region: process.env.REGION });
   const params = {
     TableName: process.env.TABLE,
@@ -39,8 +38,8 @@ exports.logger = async (props) => {
           now.getMonth() + 1
         }-${now.getDate()}`,
       },
-      body: { S: JSON.stringify(body) },
-      ip_client: { S: client },
+      request: { S: JSON.stringify(request) },
+      identity: { S: JSON.stringify(identity) },
       response: { S: JSON.stringify(response) },
       data_inicio_processamento: { S: startDate },
       data_fim_processamento: { S: now.toUTCString() },
