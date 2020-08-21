@@ -1,8 +1,7 @@
 const { processAndSendMessage, logger } = require("../../util/index");
 const { validateFields } = require("../../validator/index");
 
-exports.index = async (event) => {
-  console.log(event);
+exports.index = async (event, context) => {
   const startDate = new Date().toUTCString();
   console.log(event);
   const body = event.body;
@@ -43,6 +42,7 @@ exports.index = async (event) => {
     startDate,
     client,
     response,
+    context
   };
 
   await logger(log);

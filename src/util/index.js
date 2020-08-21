@@ -10,10 +10,9 @@ exports.reducerArrayInParts = (itens, maximo) => {
 };
 
 exports.processAndSendMessage = async (itens) => {
-  console.log(process.env.QUEUE)
   const lots = this.reducerArrayInParts(itens, process.env.SQS_BATCHSIZE);
-  const queue = await this.getUrlQueue(process.env.QUEUE);
-  const promises = lots.map((lot) => this.sendMessage(queue.QueueUrl, lot));
+  console.log(process.env.QUEUE)
+  const promises = lots.map((lot) => this.sendMessage(process.env.QUEUE, lot));
   await Promise.all(promises);
 };
 
@@ -26,30 +25,17 @@ exports.sendMessage = (queue, data) => {
   return sqs.sendMessage(message).promise();
 };
 
-exports.getUrlQueue = async (name) => {
-  var params = { QueueName: name };
-  const sqs = new AWS.SQS({ region: process.env.REGION });
-  let url;
-  try {
-    url = await sqs.getQueueUrl(params).promise();
-  } catch {
-    url = await sqs.createQueue(params).promise();
-  }
-  return url;
-};
-
 exports.logger = async (props) => {
   const now = new Date();
-  const { startDate, client, body, response } = props;
+  const { startDate, client, body, response, context } = props;
   const ddb = new AWS.DynamoDB({ region: process.env.REGION });
-  const functionName = process.env.FUNCTION_NAME;
   const params = {
-    TableName: functionName,
+    TableName: process.env.TABLE,
     Item: {
       id: { S: guid.raw() },
-      funcao: { S: functionName },
+      funcao: { S: context.functionName },
       partitionKey: {
-        S: `${functionName}-${now.getFullYear()}-${
+        S: `${context.functionName}-${now.getFullYear()}-${
           now.getMonth() + 1
         }-${now.getDate()}`,
       },

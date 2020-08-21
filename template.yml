@@ -17,7 +17,7 @@ Resources:
         Variables:
           FUNCTION_NAME: ComissoesCnuPostEmpresa
           TABLE: !Ref DataBaseDynamo
-          QUEUE: !GetAtt ComissoesCnuPostEmpresaQueue.QueueName
+          QUEUE: !Ref ComissoesCnuPostEmpresaQueue
           REGION: sa-east-1
           MAX_ACCEPTABLE_INPUT_BATCHSIZE: 1000
           SQS_BATCHSIZE: 200

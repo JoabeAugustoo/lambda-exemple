@@ -18,9 +18,7 @@ Resources:
           TABLE:
             Ref: DataBaseDynamo
           QUEUE:
-            Fn::GetAtt:
-            - ComissoesCnuPostEmpresaQueue
-            - QueueName
+            Ref: ComissoesCnuPostEmpresaQueue
           REGION: sa-east-1
           MAX_ACCEPTABLE_INPUT_BATCHSIZE: 1000
           SQS_BATCHSIZE: 200
