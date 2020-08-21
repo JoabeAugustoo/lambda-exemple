@@ -1,0 +1,40 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: comissoes-cnu
+Transform:
+- AWS::Serverless-2016-10-31
+Resources:
+  ComissoesCnuPostEmpresa:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: src/handlers/empresa.index
+      Runtime: nodejs12.x
+      MemorySize: 128
+      Timeout: 100
+      Description: Lambda function para Interface dados de Empresa
+      Environment:
+        Variables:
+          FUNCTION_NAME: ComissoesCnuPostEmpresa
+          TABLE: lambda-function-cnu-log
+          QUEUE:
+            Fn::GetAtt:
+            - ComissoesCnuPostEmpresaQueue
+            - QueueName
+          REGION: sa-east-1
+          MAX_ACCEPTABLE_INPUT_BATCHSIZE: 1000
+          SQS_BATCHSIZE: 200
+      Events:
+        Api:
+          Type: Api
+          Properties:
+            Path: /
+            Method: POST
+      CodeUri: ComissoesCnuPostEmpresa
+  ComissoesCnuPostEmpresaQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: empresaPostQueue
+Outputs:
+  WebEndpoint:
+    Description: API Gateway endpoint URL for Prod stage
+    Value:
+      Fn::Sub: https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/
