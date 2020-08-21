@@ -27,6 +27,16 @@ Resources:
           Properties:
             Path: /empresa
             Method: POST
+      Policies:
+        - DynamoDBWritePolicy:
+            TableName:
+              !Ref DataBaseDynamo
+        - SQSPollerPolicy:
+            QueueName:
+              !GetAtt ComissoesCnuPostEmpresaQueue.QueueName
+        - SQSSendMessagePolicy:
+            QueueName:
+              !GetAtt ComissoesCnuPostEmpresaQueue.QueueName
   ComissoesCnuPostEmpresaQueue:
     Type: AWS::SQS::Queue
     Properties:
