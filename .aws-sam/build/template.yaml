@@ -14,12 +14,11 @@ Resources:
       Description: Lambda function para Interface dados de Empresa
       Environment:
         Variables:
-          FUNCTION_NAME: ComissoesCnuPostEmpresa
           TABLE:
             Ref: DataBaseDynamo
           QUEUE:
             Ref: ComissoesCnuPostEmpresaQueue
-          REGION: sa-east-1
+          REGION: us-east-1
           MAX_ACCEPTABLE_INPUT_BATCHSIZE: 1000
           SQS_BATCHSIZE: 200
       Events:
