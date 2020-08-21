@@ -3,7 +3,13 @@ const { validateFields } = require("../../validator/index");
 
 exports.index = async (event) => {
   const startDate = new Date().toUTCString();
-  const { data, client, ...rest } = event;
+  console.log(event);
+  const body = event.body;
+  const { data, client, ...rest } = JSON.parse(body);
+  console.log(data);
+  console.log(client);
+  console.log(rest);
+
   const list = Array(...data);
 
   let errors = [];
