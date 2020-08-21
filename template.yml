@@ -5,7 +5,7 @@
 # https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/format-version-structure.html
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
-  empresas
+  comissoes-cnu
 
 # Transform section specifies one or more macros that AWS CloudFormation uses to process your template
 # https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/transform-section-structure.html
@@ -18,40 +18,33 @@ Resources:
   # Each Lambda function is defined by properties:
   # https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
 
-  # This is a Lambda function config associated with the source code: get-all-items.js
-  getAllEmpresaCNU:
+  # Lambda function para Interface dados de Empresa
+  ComissoesCnuPostEmpresa:
     Type: AWS::Serverless::Function
     Properties:
       Handler: src/handlers/empresa.index
       Runtime: nodejs12.x
       MemorySize: 128
       Timeout: 100
-      Description: A simple example includes a HTTP get method to get all items from a DynamoDB table.
-      Policies:
-        # Give Create/Read/Update/Delete Permissions to the SampleTable
-        - DynamoDBCrudPolicy:
-            TableName: log
+      Description: Lambda function para Interface dados de Empresa
       Environment:
         Variables:
-          TABLE: log
-          QUEUE: https://sqs.sa-east-1.amazonaws.com/560556320910/teste
+          FUNCTION_NAME: ComissoesCnuPostEmpresa
+          TABLE: lambda-function-cnu-log
+          QUEUE: !GetAtt ComissoesCnuPostEmpresaQueue.QueueName
+          REGION: sa-east-1
+          MAX_ACCEPTABLE_INPUT_BATCHSIZE: 1000
+          SQS_BATCHSIZE: 200
       Events:
         Api:
           Type: Api
           Properties:
             Path: /
-            Method: GET
-
-  SampleTable:
-    Type: AWS::Serverless::SimpleTable
+            Method: POST
+  ComissoesCnuPostEmpresaQueue:
+    Type: AWS::SQS::Queue
     Properties:
-      PrimaryKey:
-        Name: id
-        Type: String
-      ProvisionedThroughput:
-        ReadCapacityUnits: 2
-        WriteCapacityUnits: 2
-
+      QueueName: empresaPostQueue
 Outputs:
   WebEndpoint:
     Description: "API Gateway endpoint URL for Prod stage"
