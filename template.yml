@@ -39,7 +39,7 @@ Resources:
   ComissoesCnuPostEmpresaQueue:
     Type: AWS::SQS::Queue
     Properties:
-      QueueName: empresaPostQueue
+      QueueName: loadEmpresasQueue
   DataBaseDynamo: 
     Type: AWS::DynamoDB::Table
     Properties: 
@@ -54,7 +54,7 @@ Resources:
       ProvisionedThroughput: 
         ReadCapacityUnits: "5"
         WriteCapacityUnits: "5"
-      TableName: "Log"
+      TableName: "lambda-function-cnu-log"
   
 Outputs:
   WebEndpoint:
